@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_olivia_newtonjohn",
+  "name": "Olivia Newton-John",
+  "external_ids": {
+    "wikidata": "Q185165",
+    "imdb": "nm0000556"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948,
+  "death_year": 2022
+}
