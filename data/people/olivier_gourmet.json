@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_olivier_gourmet",
+  "name": "Olivier Gourmet",
+  "external_ids": {
+    "wikidata": "Q983020",
+    "imdb": "nm0332709"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

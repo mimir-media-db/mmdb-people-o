@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ola_rapace",
+  "name": "Ola Rapace",
+  "external_ids": {
+    "wikidata": "Q521623",
+    "imdb": "nm0635262"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

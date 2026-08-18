@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_oscar_kramer",
+  "name": "Oscar Kramer",
+  "external_ids": {
+    "wikidata": "Q7106083",
+    "imdb": "nm0469696"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1935,
+  "death_year": 2010
+}

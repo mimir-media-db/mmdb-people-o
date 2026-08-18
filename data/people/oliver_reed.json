@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_oliver_reed",
+  "name": "Oliver Reed",
+  "external_ids": {
+    "wikidata": "Q313588",
+    "imdb": "nm0001657"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1938,
+  "death_year": 1999
+}

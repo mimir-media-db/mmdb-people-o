@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_orson_bean",
+  "name": "Orson Bean",
+  "external_ids": {
+    "wikidata": "Q1120700",
+    "imdb": "nm0004730"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1928,
+  "death_year": 2020
+}
