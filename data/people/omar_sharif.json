@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_omar_sharif",
+  "name": "Omar Sharif",
+  "external_ids": {
+    "wikidata": "Q170515",
+    "imdb": "nm0001725"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1932,
+  "death_year": 2015
+}
