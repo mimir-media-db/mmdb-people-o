@@ -1,1 +1,91 @@
-[]
+[
+  {
+    "id": "p_oldrich_belka",
+    "name": "Oldřich Bělka",
+    "birth_year": 1993,
+    "path": "data/people/oldrich_belka.json"
+  },
+  {
+    "id": "p_oleg_komarov",
+    "name": "Oleg Komarov",
+    "birth_year": 1962,
+    "path": "data/people/oleg_komarov.json"
+  },
+  {
+    "id": "p_oleksandr_kobzar",
+    "name": "Oleksandr Kobzar",
+    "birth_year": 1976,
+    "path": "data/people/oleksandr_kobzar.json"
+  },
+  {
+    "id": "p_oleksandr_piskunov",
+    "name": "Oleksandr Piskunov",
+    "birth_year": 1991,
+    "path": "data/people/oleksandr_piskunov.json"
+  },
+  {
+    "id": "p_olga_budina",
+    "name": "Olga Budina",
+    "birth_year": 1975,
+    "path": "data/people/olga_budina.json"
+  },
+  {
+    "id": "p_olga_dabrowska",
+    "name": "Olga Dabrowská",
+    "birth_year": 1968,
+    "path": "data/people/olga_dabrowska.json"
+  },
+  {
+    "id": "p_oliver_nagele",
+    "name": "Oliver Nägele",
+    "birth_year": 1957,
+    "path": "data/people/oliver_nagele.json"
+  },
+  {
+    "id": "p_oliver_stone",
+    "name": "Oliver Stone",
+    "birth_year": 1946,
+    "path": "data/people/oliver_stone.json"
+  },
+  {
+    "id": "p_ondrej_beranek",
+    "name": "Ondřej Beránek",
+    "birth_year": 1979,
+    "path": "data/people/ondrej_beranek.json"
+  },
+  {
+    "id": "p_ondrej_havlik",
+    "name": "Ondřej Havlík",
+    "birth_year": 1984,
+    "path": "data/people/ondrej_havlik.json"
+  },
+  {
+    "id": "p_ondrej_hosek",
+    "name": "Ondřej Hošek",
+    "path": "data/people/ondrej_hosek.json"
+  },
+  {
+    "id": "p_ondrej_kokorsky",
+    "name": "Ondřej Kokorský",
+    "birth_year": 1981,
+    "path": "data/people/ondrej_kokorsky.json"
+  },
+  {
+    "id": "p_orhan_oguz",
+    "name": "Orhan Oğuz",
+    "birth_year": 1948,
+    "path": "data/people/orhan_oguz.json"
+  },
+  {
+    "id": "p_osmar_nunez",
+    "name": "Osmar Núñez",
+    "birth_year": 1957,
+    "path": "data/people/osmar_nunez.json"
+  },
+  {
+    "id": "p_ostap_stupka",
+    "name": "Ostap Stupka",
+    "birth_year": 1967,
+    "path": "data/people/ostap_stupka.json"
+  }
+]
