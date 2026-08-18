@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_osman_snav",
+  "name": "Osman Sınav",
+  "external_ids": {
+    "wikidata": "Q7107110",
+    "imdb": "nm0801543"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956,
+  "death_year": 2025
+}
