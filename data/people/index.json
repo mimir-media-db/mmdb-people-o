@@ -23,6 +23,12 @@
     "path": "data/people/o_singpui.json"
   },
   {
+    "id": "p_o_zulu",
+    "name": "'O Zulù",
+    "birth_year": 1970,
+    "path": "data/people/o_zulu.json"
+  },
+  {
     "id": "p_oana_pellea",
     "name": "Oana Pellea",
     "birth_year": 1962,
@@ -123,6 +129,12 @@
     "path": "data/people/odile_mallet.json"
   },
   {
+    "id": "p_odile_vuillemin",
+    "name": "Odile Vuillemin",
+    "birth_year": 1976,
+    "path": "data/people/odile_vuillemin.json"
+  },
+  {
     "id": "p_odiseo_bichir",
     "name": "Odiseo Bichir",
     "birth_year": 1960,
@@ -141,10 +153,22 @@
     "path": "data/people/oduvil_unnikrishnan.json"
   },
   {
+    "id": "p_ody_c_harahap",
+    "name": "Ody C. Harahap",
+    "birth_year": 1972,
+    "path": "data/people/ody_c_harahap.json"
+  },
+  {
     "id": "p_oeke_hoogendijk",
     "name": "Oeke Hoogendijk",
     "birth_year": 1960,
     "path": "data/people/oeke_hoogendijk.json"
+  },
+  {
+    "id": "p_ofelia_medina",
+    "name": "Ofelia Medina",
+    "birth_year": 1950,
+    "path": "data/people/ofelia_medina.json"
   },
   {
     "id": "p_ofira_rahamim",
@@ -164,6 +188,12 @@
     "path": "data/people/ogie_alcasid.json"
   },
   {
+    "id": "p_ognjen_svilicic",
+    "name": "Ognjen Sviličić",
+    "birth_year": 1970,
+    "path": "data/people/ognjen_svilicic.json"
+  },
+  {
     "id": "p_oh_dalsu",
     "name": "Oh Dal-su",
     "birth_year": 1968,
@@ -180,6 +210,12 @@
     "name": "Oh Jongnok",
     "birth_year": 1959,
     "path": "data/people/oh_jongnok.json"
+  },
+  {
+    "id": "p_oh_jungse",
+    "name": "Oh Jung-se",
+    "birth_year": 1977,
+    "path": "data/people/oh_jungse.json"
   },
   {
     "id": "p_oh_kwangrok",
@@ -270,10 +306,27 @@
     "path": "data/people/oksana_korostyshevskaya.json"
   },
   {
+    "id": "p_oksana_mysina",
+    "name": "Oksana Mysina",
+    "birth_year": 1961,
+    "path": "data/people/oksana_mysina.json"
+  },
+  {
+    "id": "p_oksana_semenova",
+    "name": "Oksana Semenova",
+    "path": "data/people/oksana_semenova.json"
+  },
+  {
     "id": "p_oktay_kaynarca",
     "name": "Oktay Kaynarca",
     "birth_year": 1965,
     "path": "data/people/oktay_kaynarca.json"
+  },
+  {
+    "id": "p_oktay_ozdemir",
+    "name": "Oktay Özdemir",
+    "birth_year": 1986,
+    "path": "data/people/oktay_ozdemir.json"
   },
   {
     "id": "p_ol_dirty_bastard",
@@ -305,6 +358,12 @@
     "path": "data/people/ola_rapace.json"
   },
   {
+    "id": "p_olaf_de_fleur",
+    "name": "Olaf de Fleur",
+    "birth_year": 1975,
+    "path": "data/people/olaf_de_fleur.json"
+  },
+  {
     "id": "p_olaf_ittenbach",
     "name": "Olaf Ittenbach",
     "birth_year": 1969,
@@ -327,6 +386,12 @@
     "name": "Olaf Nielsen",
     "birth_year": 1935,
     "path": "data/people/olaf_nielsen.json"
+  },
+  {
+    "id": "p_olaf_rose",
+    "name": "Olaf Rose",
+    "birth_year": 1957,
+    "path": "data/people/olaf_rose.json"
   },
   {
     "id": "p_olafur_darri_olafsson",
@@ -486,10 +551,22 @@
     "path": "data/people/oleg_pogodin.json"
   },
   {
+    "id": "p_oleg_popov",
+    "name": "Oleg Popov",
+    "birth_year": 1930,
+    "path": "data/people/oleg_popov.json"
+  },
+  {
     "id": "p_oleg_reif",
     "name": "Oleg Reif",
     "birth_year": 1928,
     "path": "data/people/oleg_reif.json"
+  },
+  {
+    "id": "p_oleg_stepchenko",
+    "name": "Oleg Stepchenko",
+    "birth_year": 1964,
+    "path": "data/people/oleg_stepchenko.json"
   },
   {
     "id": "p_oleg_tabakov",
@@ -522,6 +599,12 @@
     "path": "data/people/olegar_fedoro.json"
   },
   {
+    "id": "p_oleh_drach",
+    "name": "Oleh Drach",
+    "birth_year": 1959,
+    "path": "data/people/oleh_drach.json"
+  },
+  {
     "id": "p_oleh_prymohenov",
     "name": "Oleh Prymohenov",
     "birth_year": 1955,
@@ -532,6 +615,18 @@
     "name": "Oleh Skrypka",
     "birth_year": 1964,
     "path": "data/people/oleh_skrypka.json"
+  },
+  {
+    "id": "p_olejrgen_nilsen",
+    "name": "Ole-Jørgen Nilsen",
+    "birth_year": 1936,
+    "path": "data/people/olejrgen_nilsen.json"
+  },
+  {
+    "id": "p_oleksandr_anurov",
+    "name": "Oleksandr Anurov",
+    "birth_year": 1914,
+    "path": "data/people/oleksandr_anurov.json"
   },
   {
     "id": "p_oleksandr_bondarenko",
@@ -556,6 +651,12 @@
     "name": "Oleksandr Zinchenko",
     "birth_year": 1957,
     "path": "data/people/oleksandr_zinchenko.json"
+  },
+  {
+    "id": "p_oleksii_vertynskyi",
+    "name": "Oleksii Vertynskyi",
+    "birth_year": 1956,
+    "path": "data/people/oleksii_vertynskyi.json"
   },
   {
     "id": "p_oleksiy_divyeyevtserkovny",
@@ -600,6 +701,12 @@
     "path": "data/people/olga_anokhina.json"
   },
   {
+    "id": "p_olga_arntgolts",
+    "name": "Olga Arntgolts",
+    "birth_year": 1982,
+    "path": "data/people/olga_arntgolts.json"
+  },
+  {
     "id": "p_olga_belesova",
     "name": "Oľga Belešová",
     "birth_year": 1965,
@@ -627,6 +734,29 @@
     "name": "Olga Frycz",
     "birth_year": 1986,
     "path": "data/people/olga_frycz.json"
+  },
+  {
+    "id": "p_olga_grumberg",
+    "name": "Olga Grumberg",
+    "birth_year": 1969,
+    "path": "data/people/olga_grumberg.json"
+  },
+  {
+    "id": "p_olga_krasko",
+    "name": "Olga Krasko",
+    "birth_year": 1981,
+    "path": "data/people/olga_krasko.json"
+  },
+  {
+    "id": "p_olga_lomonosova",
+    "name": "Olga Lomonosova",
+    "birth_year": 1978,
+    "path": "data/people/olga_lomonosova.json"
+  },
+  {
+    "id": "p_olga_louzgina",
+    "name": "Olga Louzgina",
+    "path": "data/people/olga_louzgina.json"
   },
   {
     "id": "p_olga_madsen",
@@ -664,6 +794,18 @@
     "path": "data/people/olga_perunovskaya.json"
   },
   {
+    "id": "p_olga_pogodina",
+    "name": "Olga Pogodina",
+    "birth_year": 1976,
+    "path": "data/people/olga_pogodina.json"
+  },
+  {
+    "id": "p_olga_prokofyeva",
+    "name": "Olga Prokofyeva",
+    "birth_year": 1963,
+    "path": "data/people/olga_prokofyeva.json"
+  },
+  {
     "id": "p_olga_schmidtova",
     "name": "Olga Schmidtová",
     "birth_year": 1926,
@@ -682,10 +824,22 @@
     "path": "data/people/olga_sidorova.json"
   },
   {
+    "id": "p_olga_stolpovskaya",
+    "name": "Olga Stolpovskaya",
+    "birth_year": 1969,
+    "path": "data/people/olga_stolpovskaya.json"
+  },
+  {
     "id": "p_olga_sumska",
     "name": "Olga Sumska",
     "birth_year": 1966,
     "path": "data/people/olga_sumska.json"
+  },
+  {
+    "id": "p_olga_sutulova",
+    "name": "Olga Sutulova",
+    "birth_year": 1980,
+    "path": "data/people/olga_sutulova.json"
   },
   {
     "id": "p_olga_tudorache",
@@ -704,6 +858,11 @@
     "name": "Olga Vilmar",
     "birth_year": 1919,
     "path": "data/people/olga_vilmar.json"
+  },
+  {
+    "id": "p_olga_vincent",
+    "name": "Olga Vincent",
+    "path": "data/people/olga_vincent.json"
   },
   {
     "id": "p_olga_volkova",
@@ -728,6 +887,12 @@
     "name": "Olgierd Łukaszewicz",
     "birth_year": 1946,
     "path": "data/people/olgierd_ukaszewicz.json"
+  },
+  {
+    "id": "p_olgun_simsek",
+    "name": "Olgun Şimşek",
+    "birth_year": 1971,
+    "path": "data/people/olgun_simsek.json"
   },
   {
     "id": "p_olia_lazaridou",
@@ -783,6 +948,12 @@
     "path": "data/people/oliver_breite.json"
   },
   {
+    "id": "p_oliver_brocker",
+    "name": "Oliver Bröcker",
+    "birth_year": 1977,
+    "path": "data/people/oliver_brocker.json"
+  },
+  {
     "id": "p_oliver_broumis",
     "name": "Oliver Broumis",
     "birth_year": 1965,
@@ -798,6 +969,12 @@
     "id": "p_oliver_damian",
     "name": "Oliver Damian",
     "path": "data/people/oliver_damian.json"
+  },
+  {
+    "id": "p_oliver_davis",
+    "name": "Oliver Davis",
+    "birth_year": 1993,
+    "path": "data/people/oliver_davis.json"
   },
   {
     "id": "p_oliver_dommenget",
@@ -824,6 +1001,23 @@
     "path": "data/people/oliver_ford_davies.json"
   },
   {
+    "id": "p_oliver_golding",
+    "name": "Oliver Golding",
+    "birth_year": 1993,
+    "path": "data/people/oliver_golding.json"
+  },
+  {
+    "id": "p_oliver_haden",
+    "name": "Oliver Haden",
+    "path": "data/people/oliver_haden.json"
+  },
+  {
+    "id": "p_oliver_hardy",
+    "name": "Oliver Hardy",
+    "birth_year": 1892,
+    "path": "data/people/oliver_hardy.json"
+  },
+  {
     "id": "p_oliver_hirschbiegel",
     "name": "Oliver Hirschbiegel",
     "birth_year": 1957,
@@ -847,6 +1041,12 @@
     "path": "data/people/oliver_james.json"
   },
   {
+    "id": "p_oliver_kalkofe",
+    "name": "Oliver Kalkofe",
+    "birth_year": 1965,
+    "path": "data/people/oliver_kalkofe.json"
+  },
+  {
     "id": "p_oliver_korittke",
     "name": "Oliver Korittke",
     "birth_year": 1968,
@@ -863,6 +1063,12 @@
     "name": "Oliver Milburn",
     "birth_year": 1973,
     "path": "data/people/oliver_milburn.json"
+  },
+  {
+    "id": "p_oliver_moller",
+    "name": "Oliver Möller",
+    "birth_year": 1975,
+    "path": "data/people/oliver_moller.json"
   },
   {
     "id": "p_oliver_nagele",
@@ -924,10 +1130,22 @@
     "path": "data/people/oliver_rihs.json"
   },
   {
+    "id": "p_oliver_ruts",
+    "name": "Oliver Ruts",
+    "birth_year": 1967,
+    "path": "data/people/oliver_ruts.json"
+  },
+  {
     "id": "p_oliver_schmitz",
     "name": "Oliver Schmitz",
     "birth_year": 1959,
     "path": "data/people/oliver_schmitz.json"
+  },
+  {
+    "id": "p_oliver_schwabe",
+    "name": "Oliver Schwabe",
+    "birth_year": 1965,
+    "path": "data/people/oliver_schwabe.json"
   },
   {
     "id": "p_oliver_skeete",
@@ -954,6 +1172,18 @@
     "path": "data/people/oliver_stone.json"
   },
   {
+    "id": "p_oliver_stritzel",
+    "name": "Oliver Stritzel",
+    "birth_year": 1957,
+    "path": "data/people/oliver_stritzel.json"
+  },
+  {
+    "id": "p_oliver_tobias",
+    "name": "Oliver Tobias",
+    "birth_year": 1947,
+    "path": "data/people/oliver_tobias.json"
+  },
+  {
     "id": "p_oliver_tolmein",
     "name": "Oliver Tolmein",
     "birth_year": 1960,
@@ -964,6 +1194,12 @@
     "name": "Oliver Ussing",
     "birth_year": 1970,
     "path": "data/people/oliver_ussing.json"
+  },
+  {
+    "id": "p_oliver_welke",
+    "name": "Oliver Welke",
+    "birth_year": 1966,
+    "path": "data/people/oliver_welke.json"
   },
   {
     "id": "p_oliver_wnuk",
@@ -1044,10 +1280,22 @@
     "path": "data/people/olivia_lamasan.json"
   },
   {
+    "id": "p_olivia_magnani",
+    "name": "Olivia Magnani",
+    "birth_year": 1974,
+    "path": "data/people/olivia_magnani.json"
+  },
+  {
     "id": "p_olivia_molina",
     "name": "Olivia Molina",
     "birth_year": 1980,
     "path": "data/people/olivia_molina.json"
+  },
+  {
+    "id": "p_olivia_munn",
+    "name": "Olivia Munn",
+    "birth_year": 1980,
+    "path": "data/people/olivia_munn.json"
   },
   {
     "id": "p_olivia_newtonjohn",
@@ -1068,6 +1316,12 @@
     "path": "data/people/olivia_olson.json"
   },
   {
+    "id": "p_olivia_pigeot",
+    "name": "Olivia Pigeot",
+    "birth_year": 1900,
+    "path": "data/people/olivia_pigeot.json"
+  },
+  {
     "id": "p_olivia_saint",
     "name": "Olivia Saint",
     "birth_year": 1979,
@@ -1078,6 +1332,12 @@
     "name": "Olivia Stewart",
     "birth_year": 1958,
     "path": "data/people/olivia_stewart.json"
+  },
+  {
+    "id": "p_olivia_wilde",
+    "name": "Olivia Wilde",
+    "birth_year": 1984,
+    "path": "data/people/olivia_wilde.json"
   },
   {
     "id": "p_olivia_williams",
@@ -1245,6 +1505,12 @@
     "path": "data/people/olivier_megaton.json"
   },
   {
+    "id": "p_olivier_minne",
+    "name": "Olivier Minne",
+    "birth_year": 1967,
+    "path": "data/people/olivier_minne.json"
+  },
+  {
     "id": "p_olivier_missoup",
     "name": "Olivier Missoup",
     "birth_year": 1981,
@@ -1341,6 +1607,18 @@
     "path": "data/people/olivier_weber.json"
   },
   {
+    "id": "p_olivier_zabat",
+    "name": "Olivier Zabat",
+    "birth_year": 1964,
+    "path": "data/people/olivier_zabat.json"
+  },
+  {
+    "id": "p_olivier_zuchuat",
+    "name": "Olivier Zuchuat",
+    "birth_year": 1969,
+    "path": "data/people/olivier_zuchuat.json"
+  },
+  {
     "id": "p_olle_hellbom",
     "name": "Olle Hellbom",
     "birth_year": 1925,
@@ -1363,6 +1641,12 @@
     "name": "Olle Sarri",
     "birth_year": 1972,
     "path": "data/people/olle_sarri.json"
+  },
+  {
+    "id": "p_olli_dittrich",
+    "name": "Olli Dittrich",
+    "birth_year": 1956,
+    "path": "data/people/olli_dittrich.json"
   },
   {
     "id": "p_olli_haikka",
@@ -1389,6 +1673,11 @@
     "path": "data/people/olof_thunberg.json"
   },
   {
+    "id": "p_olov_ludwig",
+    "name": "Olov Ludwig",
+    "path": "data/people/olov_ludwig.json"
+  },
+  {
     "id": "p_olu_jacobs",
     "name": "Olu Jacobs",
     "birth_year": 1942,
@@ -1410,6 +1699,12 @@
     "name": "Om Puri",
     "birth_year": 1949,
     "path": "data/people/om_puri.json"
+  },
+  {
+    "id": "p_omahyra_mota",
+    "name": "Omahyra Mota",
+    "birth_year": 1984,
+    "path": "data/people/omahyra_mota.json"
   },
   {
     "id": "p_omananda",
@@ -1493,6 +1788,12 @@
     "path": "data/people/omar_gooding.json"
   },
   {
+    "id": "p_omar_naim",
+    "name": "Omar Naim",
+    "birth_year": 1977,
+    "path": "data/people/omar_naim.json"
+  },
+  {
     "id": "p_omar_pini",
     "name": "Omar Pini",
     "path": "data/people/omar_pini.json"
@@ -1526,6 +1827,24 @@
     "name": "Omar Sy",
     "birth_year": 1978,
     "path": "data/people/omar_sy.json"
+  },
+  {
+    "id": "p_omari_newton",
+    "name": "Omari Newton",
+    "birth_year": 1999,
+    "path": "data/people/omari_newton.json"
+  },
+  {
+    "id": "p_omarion",
+    "name": "Omarion",
+    "birth_year": 1984,
+    "path": "data/people/omarion.json"
+  },
+  {
+    "id": "p_omer_faruk_sorak",
+    "name": "Ömer Faruk Sorak",
+    "birth_year": 1964,
+    "path": "data/people/omer_faruk_sorak.json"
   },
   {
     "id": "p_omer_kavur",
@@ -1564,6 +1883,18 @@
     "path": "data/people/omillio_sparks.json"
   },
   {
+    "id": "p_omiros_poulakis",
+    "name": "Omiros Poulakis",
+    "birth_year": 1983,
+    "path": "data/people/omiros_poulakis.json"
+  },
+  {
+    "id": "p_omotola_jalade_ekeinde",
+    "name": "Omotola Jalade Ekeinde",
+    "birth_year": 1978,
+    "path": "data/people/omotola_jalade_ekeinde.json"
+  },
+  {
     "id": "p_omri_levi",
     "name": "Omri Levi",
     "birth_year": 1970,
@@ -1587,6 +1918,12 @@
     "path": "data/people/onder_ackbas.json"
   },
   {
+    "id": "p_ondi_timoner",
+    "name": "Ondi Timoner",
+    "birth_year": 1972,
+    "path": "data/people/ondi_timoner.json"
+  },
+  {
     "id": "p_ondrej_beranek",
     "name": "Ondřej Beránek",
     "birth_year": 1979,
@@ -1597,6 +1934,11 @@
     "name": "Ondřej Brousek",
     "birth_year": 1981,
     "path": "data/people/ondrej_brousek.json"
+  },
+  {
+    "id": "p_ondrej_danda",
+    "name": "Ondřej Danda",
+    "path": "data/people/ondrej_danda.json"
   },
   {
     "id": "p_ondrej_havlik",
@@ -1622,6 +1964,12 @@
     "path": "data/people/ondrej_koval.json"
   },
   {
+    "id": "p_ondrej_neff",
+    "name": "Ondřej Neff",
+    "birth_year": 1945,
+    "path": "data/people/ondrej_neff.json"
+  },
+  {
     "id": "p_ondrej_nosalek",
     "name": "Ondřej Nosálek",
     "birth_year": 1981,
@@ -1632,6 +1980,17 @@
     "name": "Ondřej Novák",
     "birth_year": 1985,
     "path": "data/people/ondrej_novak.json"
+  },
+  {
+    "id": "p_ondrej_pavelka",
+    "name": "Ondřej Pavelka",
+    "birth_year": 1955,
+    "path": "data/people/ondrej_pavelka.json"
+  },
+  {
+    "id": "p_ondrej_pergl",
+    "name": "Ondřej Pergl",
+    "path": "data/people/ondrej_pergl.json"
   },
   {
     "id": "p_ondrej_sokol",
@@ -1670,6 +2029,11 @@
     "path": "data/people/onemig_bondoc.json"
   },
   {
+    "id": "p_onkar_nath_mishra",
+    "name": "Onkar Nath Mishra",
+    "path": "data/people/onkar_nath_mishra.json"
+  },
+  {
     "id": "p_ookawa_toshimichi",
     "name": "Ookawa Toshimichi",
     "birth_year": 1957,
@@ -1685,6 +2049,12 @@
     "name": "Oona-Devi Liebich",
     "birth_year": 1984,
     "path": "data/people/oonadevi_liebich.json"
+  },
+  {
+    "id": "p_opeyemi_aiyeola",
+    "name": "Opeyemi Aiyeola",
+    "birth_year": 1977,
+    "path": "data/people/opeyemi_aiyeola.json"
   },
   {
     "id": "p_ophelie_winter",
@@ -1711,6 +2081,12 @@
     "path": "data/people/oren_nataf.json"
   },
   {
+    "id": "p_oren_rudavsky",
+    "name": "Oren Rudavsky",
+    "birth_year": 1949,
+    "path": "data/people/oren_rudavsky.json"
+  },
+  {
     "id": "p_orestes_ojeda",
     "name": "Orestes Ojeda",
     "birth_year": 1956,
@@ -1721,6 +2097,12 @@
     "name": "Þorfinnur Ómarsson",
     "birth_year": 1965,
     "path": "data/people/orfinnur_omarsson.json"
+  },
+  {
+    "id": "p_orhan_guner",
+    "name": "Orhan Güner",
+    "birth_year": 1954,
+    "path": "data/people/orhan_guner.json"
   },
   {
     "id": "p_orhan_oguz",
@@ -1739,6 +2121,12 @@
     "name": "Ori Kowarsky",
     "birth_year": 1970,
     "path": "data/people/ori_kowarsky.json"
+  },
+  {
+    "id": "p_oriana_fallaci",
+    "name": "Oriana Fallaci",
+    "birth_year": 1929,
+    "path": "data/people/oriana_fallaci.json"
   },
   {
     "id": "p_orio_scaduto",
@@ -1843,6 +2231,12 @@
     "path": "data/people/orny_adams.json"
   },
   {
+    "id": "p_orsetta_de_rossi",
+    "name": "Orsetta De Rossi",
+    "birth_year": 1963,
+    "path": "data/people/orsetta_de_rossi.json"
+  },
+  {
     "id": "p_orso_maria_guerrini",
     "name": "Orso Maria Guerrini",
     "birth_year": 1943,
@@ -1901,6 +2295,12 @@
     "path": "data/people/ortrun_heinkelein.json"
   },
   {
+    "id": "p_osama_fawzi",
+    "name": "Osama Fawzi",
+    "birth_year": 1961,
+    "path": "data/people/osama_fawzi.json"
+  },
+  {
     "id": "p_osamu_fukutani",
     "name": "Osamu Fukutani",
     "birth_year": 1967,
@@ -1910,6 +2310,12 @@
     "id": "p_osamu_kubota",
     "name": "Osamu Kubota",
     "path": "data/people/osamu_kubota.json"
+  },
+  {
+    "id": "p_osamu_nishimura",
+    "name": "Osamu Nishimura",
+    "birth_year": 1971,
+    "path": "data/people/osamu_nishimura.json"
   },
   {
     "id": "p_osborn_bladini",
@@ -2059,6 +2465,18 @@
     "path": "data/people/oskar_roehler.json"
   },
   {
+    "id": "p_oskar_silen",
+    "name": "Oskar Silén",
+    "birth_year": 1973,
+    "path": "data/people/oskar_silen.json"
+  },
+  {
+    "id": "p_oskar_thunberg",
+    "name": "Oskar Thunberg",
+    "birth_year": 1976,
+    "path": "data/people/oskar_thunberg.json"
+  },
+  {
     "id": "p_osman_elkharraz",
     "name": "Osman Elkharraz",
     "birth_year": 1989,
@@ -2075,6 +2493,18 @@
     "name": "Osmar Núñez",
     "birth_year": 1957,
     "path": "data/people/osmar_nunez.json"
+  },
+  {
+    "id": "p_osmar_prado",
+    "name": "Osmar Prado",
+    "birth_year": 1947,
+    "path": "data/people/osmar_prado.json"
+  },
+  {
+    "id": "p_osnat_trabelsi",
+    "name": "Osnat Trabelsi",
+    "birth_year": 1965,
+    "path": "data/people/osnat_trabelsi.json"
   },
   {
     "id": "p_osqui_guzman",
@@ -2130,6 +2560,12 @@
     "path": "data/people/osvaldo_laport.json"
   },
   {
+    "id": "p_osvaldo_ruggieri",
+    "name": "Osvaldo Ruggieri",
+    "birth_year": 1928,
+    "path": "data/people/osvaldo_ruggieri.json"
+  },
+  {
     "id": "p_osvaldo_santoro",
     "name": "Osvaldo Santoro",
     "birth_year": 1948,
@@ -2157,6 +2593,12 @@
     "name": "Otakar Brousek, Sr.",
     "birth_year": 1924,
     "path": "data/people/otakar_brousek_sr.json"
+  },
+  {
+    "id": "p_otakar_kosek",
+    "name": "Otakar Kosek",
+    "birth_year": 1944,
+    "path": "data/people/otakar_kosek.json"
   },
   {
     "id": "p_otakaro_schmidt",
@@ -2201,6 +2643,12 @@
     "path": "data/people/otig_pakis.json"
   },
   {
+    "id": "p_otis_rush",
+    "name": "Otis Rush",
+    "birth_year": 1935,
+    "path": "data/people/otis_rush.json"
+  },
+  {
     "id": "p_otis_young",
     "name": "Otis Young",
     "birth_year": 1932,
@@ -2237,6 +2685,12 @@
     "path": "data/people/ottavia_fusco.json"
   },
   {
+    "id": "p_ottavia_piccolo",
+    "name": "Ottavia Piccolo",
+    "birth_year": 1949,
+    "path": "data/people/ottavia_piccolo.json"
+  },
+  {
     "id": "p_ottaviano_dellacqua",
     "name": "Ottaviano Dell'Acqua",
     "birth_year": 1954,
@@ -2261,10 +2715,28 @@
     "path": "data/people/otto_jespersen.json"
   },
   {
+    "id": "p_otto_lackovic",
+    "name": "Otto Lackovič",
+    "birth_year": 1927,
+    "path": "data/people/otto_lackovic.json"
+  },
+  {
+    "id": "p_otto_lechner",
+    "name": "Otto Lechner",
+    "birth_year": 1964,
+    "path": "data/people/otto_lechner.json"
+  },
+  {
     "id": "p_otto_placht",
     "name": "Otto Placht",
     "birth_year": 1962,
     "path": "data/people/otto_placht.json"
+  },
+  {
+    "id": "p_otto_rosetzky",
+    "name": "Otto Rošetzký",
+    "birth_year": 1965,
+    "path": "data/people/otto_rosetzky.json"
   },
   {
     "id": "p_otto_sanchez",
@@ -2321,6 +2793,12 @@
     "path": "data/people/oumayma_ben_hafsia.json"
   },
   {
+    "id": "p_ouseppachan",
+    "name": "Ouseppachan",
+    "birth_year": 1955,
+    "path": "data/people/ouseppachan.json"
+  },
+  {
     "id": "p_ousmane_sembene",
     "name": "Ousmane Sembène",
     "birth_year": 1922,
@@ -2330,6 +2808,12 @@
     "id": "p_ousmane_stephane",
     "name": "Ousmane Stephane",
     "path": "data/people/ousmane_stephane.json"
+  },
+  {
+    "id": "p_ousmane_william_mbaye",
+    "name": "Ousmane William Mbaye",
+    "birth_year": 1951,
+    "path": "data/people/ousmane_william_mbaye.json"
   },
   {
     "id": "p_outi_maenpaa",
@@ -2372,6 +2856,12 @@
     "name": "Ovidiu Niculescu",
     "birth_year": 1974,
     "path": "data/people/ovidiu_niculescu.json"
+  },
+  {
+    "id": "p_owain_yeoman",
+    "name": "Owain Yeoman",
+    "birth_year": 1978,
+    "path": "data/people/owain_yeoman.json"
   },
   {
     "id": "p_owen_brenman",
@@ -2421,10 +2911,28 @@
     "path": "data/people/ozan_guven.json"
   },
   {
+    "id": "p_ozan_uygun",
+    "name": "Ozan Uygun",
+    "birth_year": 1996,
+    "path": "data/people/ozan_uygun.json"
+  },
+  {
     "id": "p_ozcan_deniz",
     "name": "Özcan Deniz",
     "birth_year": 1972,
     "path": "data/people/ozcan_deniz.json"
+  },
+  {
+    "id": "p_ozge_ozberk",
+    "name": "Özge Özberk",
+    "birth_year": 1976,
+    "path": "data/people/ozge_ozberk.json"
+  },
+  {
+    "id": "p_ozgu_namal",
+    "name": "Özgü Namal",
+    "birth_year": 1978,
+    "path": "data/people/ozgu_namal.json"
   },
   {
     "id": "p_ozgur_ozata",
