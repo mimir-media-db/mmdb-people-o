@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_omarion",
+  "name": "Omarion",
+  "external_ids": {
+    "wikidata": "Q361683",
+    "imdb": "nm1217506"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1984
+}
