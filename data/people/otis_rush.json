@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_otis_rush",
+  "name": "Otis Rush",
+  "external_ids": {
+    "wikidata": "Q711197",
+    "imdb": "nm1510857"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1935,
+  "death_year": 2018
+}
