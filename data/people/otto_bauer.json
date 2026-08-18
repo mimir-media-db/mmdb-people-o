@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_otto_bauer",
+  "name": "Otto Bauer",
+  "external_ids": {
+    "wikidata": "Q2038192",
+    "imdb": "nm1684883"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_oscar_james",
+  "name": "Oscar James",
+  "external_ids": {
+    "wikidata": "Q596972",
+    "imdb": "nm0416805"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942
+}
