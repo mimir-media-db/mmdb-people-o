@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_otig_pakis",
+  "name": "Otig Pakis",
+  "external_ids": {
+    "wikidata": "Q19730063",
+    "imdb": "nm2683695"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960,
+  "death_year": 2024
+}
