@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_oliver_stone",
+  "name": "Oliver Stone",
+  "external_ids": {
+    "wikidata": "Q179497",
+    "imdb": "nm0000231"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1946,
+  "death_year": null
+}
