@@ -1,2 +1,3 @@
-# mmdb-people-o
-MMDB People — O
+# MMDB People — O
+
+People whose slug starts with 'o'.
