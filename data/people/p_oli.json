@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_oli",
+  "name": "Oli",
+  "external_ids": {
+    "wikidata": "Q42715528",
+    "imdb": "nm8129879"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1996
+}
