@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_olaf_held",
+  "name": "Olaf Held",
+  "external_ids": {
+    "wikidata": "Q23070448",
+    "imdb": "nm0374924"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}
