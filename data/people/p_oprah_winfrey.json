@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_oprah_winfrey",
+  "name": "Oprah Winfrey",
+  "external_ids": {
+    "wikidata": "Q55800",
+    "imdb": "nm0001856"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1954
+}
