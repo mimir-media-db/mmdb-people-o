@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_olivia_de_havilland",
+  "name": "Olivia de Havilland",
+  "external_ids": {
+    "wikidata": "Q95068",
+    "imdb": "nm0000014"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1916,
+  "death_year": 2020
+}
