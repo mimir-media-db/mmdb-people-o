@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_oscar_morgan",
+  "name": "Oscar Morgan",
+  "external_ids": {
+    "wikidata": "Q120020521",
+    "imdb": "nm9512876"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
