@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_oscar_coleman",
+  "name": "Oscar Coleman",
+  "external_ids": {
+    "wikidata": "Q124413518",
+    "imdb": "nm11241328"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2014
+}
