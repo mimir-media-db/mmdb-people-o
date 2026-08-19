@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ola_simonsson",
+  "name": "Ola Simonsson",
+  "external_ids": {
+    "wikidata": "Q6176567",
+    "imdb": "nm0800800"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}
