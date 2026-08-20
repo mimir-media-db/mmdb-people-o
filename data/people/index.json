@@ -2741,6 +2741,12 @@
     "path": "data/people/p_oleg_novkovic.json"
   },
   {
+    "id": "p_oleg_osipov",
+    "name": "Oleg Osipov",
+    "birth_year": 1969,
+    "path": "data/people/p_oleg_osipov.json"
+  },
+  {
     "id": "p_oleg_palmov",
     "name": "Oleg Palmov",
     "birth_year": 1945,
@@ -3272,6 +3278,12 @@
     "id": "p_oleksandr_s1mple_kostyliev",
     "name": "Oleksandr 'S1mple' Kostyliev",
     "path": "data/people/p_oleksandr_s1mple_kostyliev.json"
+  },
+  {
+    "id": "p_oleksandr_shchetynsky",
+    "name": "Oleksandr Shchetynsky",
+    "birth_year": 1960,
+    "path": "data/people/p_oleksandr_shchetynsky.json"
   },
   {
     "id": "p_oleksandr_shchur",
@@ -4190,6 +4202,12 @@
     "path": "data/people/p_olga_perunovskaya.json"
   },
   {
+    "id": "p_olga_petrova",
+    "name": "Olga Petrova",
+    "birth_year": 1956,
+    "path": "data/people/p_olga_petrova.json"
+  },
+  {
     "id": "p_olga_plojhar_bursikova",
     "name": "Olga Plojhar Bursíková",
     "birth_year": 1991,
@@ -5050,6 +5068,12 @@
     "path": "data/people/p_oliver_kalkofe.json"
   },
   {
+    "id": "p_oliver_keidel",
+    "name": "Oliver Keidel",
+    "birth_year": 1967,
+    "path": "data/people/p_oliver_keidel.json"
+  },
+  {
     "id": "p_oliver_kienle",
     "name": "Oliver Kienle",
     "birth_year": 1981,
@@ -5071,6 +5095,12 @@
     "name": "Oliver Korittke",
     "birth_year": 1968,
     "path": "data/people/p_oliver_korittke.json"
+  },
+  {
+    "id": "p_oliver_kraus",
+    "name": "Oliver Kraus",
+    "birth_year": 1969,
+    "path": "data/people/p_oliver_kraus.json"
   },
   {
     "id": "p_oliver_krekel",
@@ -8171,6 +8201,12 @@
     "name": "Omid Taslimi",
     "birth_year": 1986,
     "path": "data/people/p_omid_taslimi.json"
+  },
+  {
+    "id": "p_omid_walizadeh",
+    "name": "Omid Walizadeh",
+    "birth_year": 1999,
+    "path": "data/people/p_omid_walizadeh.json"
   },
   {
     "id": "p_omid_zendegani",
@@ -11641,6 +11677,12 @@
     "name": "Ota Filip",
     "birth_year": 1945,
     "path": "data/people/p_ota_filip.json"
+  },
+  {
+    "id": "p_ota_hofman",
+    "name": "Ota Hofman",
+    "birth_year": 1928,
+    "path": "data/people/p_ota_hofman.json"
   },
   {
     "id": "p_ota_jirak",
