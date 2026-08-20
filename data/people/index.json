@@ -6667,6 +6667,12 @@
     "path": "data/people/p_olivier_gruner.json"
   },
   {
+    "id": "p_olivier_guez",
+    "name": "Olivier Guez",
+    "birth_year": 1974,
+    "path": "data/people/p_olivier_guez.json"
+  },
+  {
     "id": "p_olivier_hamel",
     "name": "Olivier Hamel",
     "birth_year": 1964,
