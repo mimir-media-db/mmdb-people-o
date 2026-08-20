@@ -693,6 +693,11 @@
     "path": "data/people/p_odun_ayo.json"
   },
   {
+    "id": "p_odunayo_ademola",
+    "name": "Odunayo Ademola",
+    "path": "data/people/p_odunayo_ademola.json"
+  },
+  {
     "id": "p_odunlade_jonathan_adekola",
     "name": "Odunlade Jonathan Adekola",
     "birth_year": 1978,
@@ -761,6 +766,12 @@
     "id": "p_offer_avnon",
     "name": "Offer Avnon",
     "path": "data/people/p_offer_avnon.json"
+  },
+  {
+    "id": "p_offer_nissim",
+    "name": "Offer Nissim",
+    "birth_year": 1963,
+    "path": "data/people/p_offer_nissim.json"
   },
   {
     "id": "p_ofir_lobel",
@@ -1976,6 +1987,11 @@
     "path": "data/people/p_olaf_nielsen.json"
   },
   {
+    "id": "p_olaf_olszewski",
+    "name": "Olaf Olszewski",
+    "path": "data/people/p_olaf_olszewski.json"
+  },
+  {
     "id": "p_olaf_rose",
     "name": "Olaf Rose",
     "birth_year": 1957,
@@ -2858,6 +2874,12 @@
     "path": "data/people/p_oleg_popov.json"
   },
   {
+    "id": "p_oleg_presnyakov",
+    "name": "Oleg Presnyakov",
+    "birth_year": 1969,
+    "path": "data/people/p_oleg_presnyakov.json"
+  },
+  {
     "id": "p_oleg_reif",
     "name": "Oleg Reif",
     "birth_year": 1928,
@@ -3633,6 +3655,12 @@
     "path": "data/people/p_oleksiy_radynski.json"
   },
   {
+    "id": "p_olen_steinhauer",
+    "name": "Olen Steinhauer",
+    "birth_year": 1970,
+    "path": "data/people/p_olen_steinhauer.json"
+  },
+  {
     "id": "p_olena_demyanenko",
     "name": "Olena Demyanenko",
     "birth_year": 1966,
@@ -3694,6 +3722,11 @@
     "id": "p_olena_medvedievamamchur",
     "name": "Olena Medvedieva-Mamchur",
     "path": "data/people/p_olena_medvedievamamchur.json"
+  },
+  {
+    "id": "p_olena_morentsova_shulyk",
+    "name": "Olena Morentsova Shulyk",
+    "path": "data/people/p_olena_morentsova_shulyk.json"
   },
   {
     "id": "p_olena_musiyenko",
@@ -3798,6 +3831,11 @@
     "id": "p_olexandr_irvanets",
     "name": "Olexandr Irvanets",
     "path": "data/people/p_olexandr_irvanets.json"
+  },
+  {
+    "id": "p_olexii_gladushevskyy",
+    "name": "Olexii Gladushevskyy",
+    "path": "data/people/p_olexii_gladushevskyy.json"
   },
   {
     "id": "p_olexsandr_kryzanivskiy",
@@ -4405,6 +4443,12 @@
     "path": "data/people/p_olga_rodionova.json"
   },
   {
+    "id": "p_olga_rodriguez",
+    "name": "Olga Rodríguez",
+    "birth_year": 1975,
+    "path": "data/people/p_olga_rodriguez.json"
+  },
+  {
     "id": "p_olga_rui_marchio",
     "name": "Olga Rui Marchiò",
     "birth_year": 2008,
@@ -4947,6 +4991,11 @@
     "name": "Oliver Chris",
     "birth_year": 1978,
     "path": "data/people/p_oliver_chris.json"
+  },
+  {
+    "id": "p_oliver_coates",
+    "name": "Oliver Coates",
+    "path": "data/people/p_oliver_coates.json"
   },
   {
     "id": "p_oliver_coleman",
@@ -5688,6 +5737,11 @@
     "name": "Oliver Tolmein",
     "birth_year": 1960,
     "path": "data/people/p_oliver_tolmein.json"
+  },
+  {
+    "id": "p_oliver_torr",
+    "name": "Oliver Torr",
+    "path": "data/people/p_oliver_torr.json"
   },
   {
     "id": "p_oliver_trevena",
@@ -7346,6 +7400,12 @@
     "path": "data/people/p_olle_krantz.json"
   },
   {
+    "id": "p_olle_mirme",
+    "name": "Olle Mirme",
+    "birth_year": 1973,
+    "path": "data/people/p_olle_mirme.json"
+  },
+  {
     "id": "p_olle_nordemar",
     "name": "Olle Nordemar",
     "birth_year": 1914,
@@ -7645,6 +7705,11 @@
     "id": "p_oluwaseun_babalola",
     "name": "Oluwaseun Babalola",
     "path": "data/people/p_oluwaseun_babalola.json"
+  },
+  {
+    "id": "p_oluwaseun_odukoya",
+    "name": "Oluwaseun Odukoya",
+    "path": "data/people/p_oluwaseun_odukoya.json"
   },
   {
     "id": "p_olve_aslaksen",
@@ -11011,6 +11076,12 @@
     "path": "data/people/p_oscar_di_maio.json"
   },
   {
+    "id": "p_oscar_diaz",
+    "name": "Oscar Díaz",
+    "birth_year": 1961,
+    "path": "data/people/p_oscar_diaz.json"
+  },
+  {
     "id": "p_oscar_dyekjr_giese",
     "name": "Oscar Dyekjær Giese",
     "birth_year": 1995,
@@ -12763,6 +12834,12 @@
     "name": "Oumayma Ben Hafsia",
     "birth_year": 1992,
     "path": "data/people/p_oumayma_ben_hafsia.json"
+  },
+  {
+    "id": "p_oumi_kapila",
+    "name": "Oumi Kapila",
+    "birth_year": 1984,
+    "path": "data/people/p_oumi_kapila.json"
   },
   {
     "id": "p_oumou_sangare",
