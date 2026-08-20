@@ -1940,6 +1940,12 @@
     "path": "data/people/p_olafur_eliasson.json"
   },
   {
+    "id": "p_olafur_haukur_simonarson",
+    "name": "Ólafur Haukur Símonarson",
+    "birth_year": 1947,
+    "path": "data/people/p_olafur_haukur_simonarson.json"
+  },
+  {
     "id": "p_olafur_sigurvinsson",
     "name": "Ólafur Sigurvinsson",
     "birth_year": 1951,
@@ -4596,6 +4602,12 @@
     "path": "data/people/p_oliver_berben.json"
   },
   {
+    "id": "p_oliver_biehler",
+    "name": "Oliver Biehler",
+    "birth_year": 1968,
+    "path": "data/people/p_oliver_biehler.json"
+  },
+  {
     "id": "p_oliver_bierhoff",
     "name": "Oliver Bierhoff",
     "birth_year": 1968,
@@ -6516,6 +6528,11 @@
     "path": "data/people/p_olivier_magne.json"
   },
   {
+    "id": "p_olivier_manchon",
+    "name": "Olivier Manchon",
+    "path": "data/people/p_olivier_manchon.json"
+  },
+  {
     "id": "p_olivier_marboeuf",
     "name": "Olivier Marboeuf",
     "birth_year": 1971,
@@ -7526,6 +7543,12 @@
     "path": "data/people/p_omar_hilal.json"
   },
   {
+    "id": "p_omar_khairat",
+    "name": "Omar Khairat",
+    "birth_year": 1948,
+    "path": "data/people/p_omar_khairat.json"
+  },
+  {
     "id": "p_omar_khaouaj",
     "name": "Omar Khaouaj",
     "birth_year": 1977,
@@ -8375,6 +8398,12 @@
     "name": "Ondřej Hudeček",
     "birth_year": 1987,
     "path": "data/people/p_ondrej_hudecek.json"
+  },
+  {
+    "id": "p_ondrej_jezek",
+    "name": "Ondřej Ježek",
+    "birth_year": 1973,
+    "path": "data/people/p_ondrej_jezek.json"
   },
   {
     "id": "p_ondrej_jiracek",
@@ -9461,6 +9490,12 @@
     "name": "Ori Sivan",
     "birth_year": 1963,
     "path": "data/people/p_ori_sivan.json"
+  },
+  {
+    "id": "p_ori_vidislavski",
+    "name": "Ori Vidislavski",
+    "birth_year": 1955,
+    "path": "data/people/p_ori_vidislavski.json"
   },
   {
     "id": "p_ori_yaniv",
@@ -12062,6 +12097,12 @@
     "name": "Oumayma Ben Hafsia",
     "birth_year": 1992,
     "path": "data/people/p_oumayma_ben_hafsia.json"
+  },
+  {
+    "id": "p_oumou_sangare",
+    "name": "Oumou Sangaré",
+    "birth_year": 1968,
+    "path": "data/people/p_oumou_sangare.json"
   },
   {
     "id": "p_oumy_bruni_garrel",
