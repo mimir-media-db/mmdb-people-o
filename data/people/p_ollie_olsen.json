@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ollie_olsen",
+  "name": "Ollie Olsen",
+  "external_ids": {
+    "wikidata": "Q7088360",
+    "imdb": "nm0647767"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1957,
+  "death_year": 2024
+}
