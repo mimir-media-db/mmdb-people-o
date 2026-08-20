@@ -1069,6 +1069,12 @@
     "path": "data/people/p_oh_nara.json"
   },
   {
+    "id": "p_oh_sangho",
+    "name": "Oh Sang-ho",
+    "birth_year": 1975,
+    "path": "data/people/p_oh_sangho.json"
+  },
+  {
     "id": "p_oh_sehun",
     "name": "Oh Se-hun",
     "birth_year": 1994,
@@ -1201,6 +1207,12 @@
     "name": "Ohanna Shivanand",
     "birth_year": 1982,
     "path": "data/people/p_ohanna_shivanand.json"
+  },
+  {
+    "id": "p_ohashi_trio",
+    "name": "Ohashi Trio",
+    "birth_year": 1978,
+    "path": "data/people/p_ohashi_trio.json"
   },
   {
     "id": "p_ohkwang_kwon",
@@ -1464,6 +1476,12 @@
     "name": "Okke Verberk",
     "birth_year": 1991,
     "path": "data/people/p_okke_verberk.json"
+  },
+  {
+    "id": "p_okku_nuutilainen",
+    "name": "Okku Nuutilainen",
+    "birth_year": 1980,
+    "path": "data/people/p_okku_nuutilainen.json"
   },
   {
     "id": "p_oko_rosic",
@@ -3194,6 +3212,11 @@
     "path": "data/people/p_oleksandr_denysenko.json"
   },
   {
+    "id": "p_oleksandr_dermanskyi",
+    "name": "Oleksandr Dermanskyi",
+    "path": "data/people/p_oleksandr_dermanskyi.json"
+  },
+  {
     "id": "p_oleksandr_dirdovskyi",
     "name": "Oleksandr Dirdovskyi",
     "birth_year": 1956,
@@ -3501,6 +3524,11 @@
     "name": "Oleksii Zubkov",
     "birth_year": 1975,
     "path": "data/people/p_oleksii_zubkov.json"
+  },
+  {
+    "id": "p_oleksiy_baklan",
+    "name": "Oleksiy Baklan",
+    "path": "data/people/p_oleksiy_baklan.json"
   },
   {
     "id": "p_oleksiy_bohdanovych",
@@ -4601,6 +4629,11 @@
     "name": "Olha Hryshyna",
     "birth_year": 1982,
     "path": "data/people/p_olha_hryshyna.json"
+  },
+  {
+    "id": "p_olha_marikutsa",
+    "name": "Olha Marikutsa",
+    "path": "data/people/p_olha_marikutsa.json"
   },
   {
     "id": "p_olha_martynovska",
@@ -9206,6 +9239,11 @@
     "path": "data/people/p_onni_tommila.json"
   },
   {
+    "id": "p_ono_toshitsugu",
+    "name": "Ōno toshitsugu",
+    "path": "data/people/p_ono_toshitsugu.json"
+  },
+  {
     "id": "p_onoe_matsuya_ii",
     "name": "Onoe Matsuya II",
     "birth_year": 1985,
@@ -9693,6 +9731,12 @@
     "id": "p_orest_slipak",
     "name": "Orest Slipak",
     "path": "data/people/p_orest_slipak.json"
+  },
+  {
+    "id": "p_oreste_crisostomi",
+    "name": "Oreste Crisostomi",
+    "birth_year": 1981,
+    "path": "data/people/p_oreste_crisostomi.json"
   },
   {
     "id": "p_oreste_lionello",
@@ -10230,6 +10274,11 @@
     "name": "Orlando Schwerdt",
     "birth_year": 2005,
     "path": "data/people/p_orlando_schwerdt.json"
+  },
+  {
+    "id": "p_orlando_tirado",
+    "name": "Orlando Tirado",
+    "path": "data/people/p_orlando_tirado.json"
   },
   {
     "id": "p_orlando_urdaneta",
@@ -11671,6 +11720,12 @@
     "id": "p_ossi_tikkanen",
     "name": "Ossi Tikkanen",
     "path": "data/people/p_ossi_tikkanen.json"
+  },
+  {
+    "id": "p_ossian_brown",
+    "name": "Ossian Brown",
+    "birth_year": 1969,
+    "path": "data/people/p_ossian_brown.json"
   },
   {
     "id": "p_ossie_davis",
