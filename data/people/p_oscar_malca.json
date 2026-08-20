@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_oscar_malca",
+  "name": "Óscar Malca",
+  "external_ids": {
+    "wikidata": "Q131413464",
+    "imdb": "nm0539067"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1957
+}
