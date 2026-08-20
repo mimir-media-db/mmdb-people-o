@@ -1887,6 +1887,12 @@
     "path": "data/people/p_olaf_de_fleur.json"
   },
   {
+    "id": "p_olaf_didolff",
+    "name": "Olaf Didolff",
+    "birth_year": 1971,
+    "path": "data/people/p_olaf_didolff.json"
+  },
+  {
     "id": "p_olaf_held",
     "name": "Olaf Held",
     "birth_year": 1970,
@@ -8945,6 +8951,11 @@
     "path": "data/people/p_ondrej_kopicka.json"
   },
   {
+    "id": "p_ondrej_kopriva",
+    "name": "Ondřej Kopřiva",
+    "path": "data/people/p_ondrej_kopriva.json"
+  },
+  {
     "id": "p_ondrej_koval",
     "name": "Ondrej Kovaľ",
     "birth_year": 1979,
@@ -12357,6 +12368,12 @@
     "name": "Ott Kartau",
     "birth_year": 1988,
     "path": "data/people/p_ott_kartau.json"
+  },
+  {
+    "id": "p_ott_kilusk",
+    "name": "Ott Kilusk",
+    "birth_year": 1975,
+    "path": "data/people/p_ott_kilusk.json"
   },
   {
     "id": "p_ott_lepland",
