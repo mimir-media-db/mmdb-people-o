@@ -4787,6 +4787,11 @@
     "path": "data/people/p_oliver_burgin.json"
   },
   {
+    "id": "p_oliver_butcher",
+    "name": "Oliver Butcher",
+    "path": "data/people/p_oliver_butcher.json"
+  },
+  {
     "id": "p_oliver_chan_siukuen",
     "name": "Oliver Chan Siu-kuen",
     "birth_year": 1987,
@@ -5071,6 +5076,12 @@
     "id": "p_oliver_juhrs",
     "name": "Oliver Juhrs",
     "path": "data/people/p_oliver_juhrs.json"
+  },
+  {
+    "id": "p_oliver_kahl",
+    "name": "Oliver Kahl",
+    "birth_year": 1976,
+    "path": "data/people/p_oliver_kahl.json"
   },
   {
     "id": "p_oliver_kahn",
@@ -6485,6 +6496,12 @@
     "path": "data/people/p_olivier_dahan.json"
   },
   {
+    "id": "p_olivier_daviaud",
+    "name": "Olivier Daviaud",
+    "birth_year": 1971,
+    "path": "data/people/p_olivier_daviaud.json"
+  },
+  {
     "id": "p_olivier_dazat",
     "name": "Olivier Dazat",
     "birth_year": 1956,
@@ -7314,6 +7331,12 @@
     "id": "p_olmo_schnabel",
     "name": "Olmo Schnabel",
     "path": "data/people/p_olmo_schnabel.json"
+  },
+  {
+    "id": "p_olo_walicki",
+    "name": "Olo Walicki",
+    "birth_year": 1974,
+    "path": "data/people/p_olo_walicki.json"
   },
   {
     "id": "p_olof_ahman",
@@ -11750,6 +11773,12 @@
     "path": "data/people/p_ota_koval.json"
   },
   {
+    "id": "p_ota_vana",
+    "name": "Ota Vana",
+    "birth_year": 1971,
+    "path": "data/people/p_ota_vana.json"
+  },
+  {
     "id": "p_otakar_brousek_jr",
     "name": "Otakar Brousek Jr",
     "birth_year": 1957,
@@ -12226,6 +12255,12 @@
     "path": "data/people/p_otto_leonardo_steen_rieks.json"
   },
   {
+    "id": "p_otto_m_schwarz",
+    "name": "Otto M. Schwarz",
+    "birth_year": 1967,
+    "path": "data/people/p_otto_m_schwarz.json"
+  },
+  {
     "id": "p_otto_melich",
     "name": "Otto Melich",
     "path": "data/people/p_otto_melich.json"
@@ -12497,6 +12532,12 @@
     "name": "Outi Mäenpää",
     "birth_year": 1962,
     "path": "data/people/p_outi_maenpaa.json"
+  },
+  {
+    "id": "p_outi_nyytaja",
+    "name": "Outi Nyytäjä",
+    "birth_year": 1935,
+    "path": "data/people/p_outi_nyytaja.json"
   },
   {
     "id": "p_outi_rousu",
