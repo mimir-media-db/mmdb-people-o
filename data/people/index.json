@@ -1736,6 +1736,12 @@
     "path": "data/people/p_ola_ghanem.json"
   },
   {
+    "id": "p_ola_gjeilo",
+    "name": "Ola Gjeilo",
+    "birth_year": 1978,
+    "path": "data/people/p_ola_gjeilo.json"
+  },
+  {
     "id": "p_ola_graff",
     "name": "Ola Graff",
     "birth_year": 1949,
@@ -2726,6 +2732,12 @@
     "name": "Oleg Liptsin",
     "birth_year": 1959,
     "path": "data/people/p_oleg_liptsin.json"
+  },
+  {
+    "id": "p_oleg_malovichko",
+    "name": "Oleg Malovichko",
+    "birth_year": 1970,
+    "path": "data/people/p_oleg_malovichko.json"
   },
   {
     "id": "p_oleg_mavromatti",
@@ -4157,6 +4169,12 @@
     "name": "Olga Michálková",
     "birth_year": 1933,
     "path": "data/people/p_olga_michalkova.json"
+  },
+  {
+    "id": "p_olga_mikhailova",
+    "name": "Olga Mikhailova",
+    "birth_year": 1953,
+    "path": "data/people/p_olga_mikhailova.json"
   },
   {
     "id": "p_olga_molokanova",
@@ -6296,6 +6314,12 @@
     "path": "data/people/p_olivier_alary.json"
   },
   {
+    "id": "p_olivier_arson",
+    "name": "Olivier Arson",
+    "birth_year": 1978,
+    "path": "data/people/p_olivier_arson.json"
+  },
+  {
     "id": "p_olivier_assayas",
     "name": "Olivier Assayas",
     "birth_year": 1955,
@@ -7791,6 +7815,12 @@
     "path": "data/people/p_omar_forero.json"
   },
   {
+    "id": "p_omar_fye",
+    "name": "Omar Fye",
+    "birth_year": 1981,
+    "path": "data/people/p_omar_fye.json"
+  },
+  {
     "id": "p_omar_galanti",
     "name": "Omar Galanti",
     "birth_year": 1973,
@@ -8540,6 +8570,12 @@
     "name": "Ondina Quadri",
     "birth_year": 1994,
     "path": "data/people/p_ondina_quadri.json"
+  },
+  {
+    "id": "p_ondrej_andera",
+    "name": "Ondřej Anděra",
+    "birth_year": 1974,
+    "path": "data/people/p_ondrej_andera.json"
   },
   {
     "id": "p_ondrej_antalek",
