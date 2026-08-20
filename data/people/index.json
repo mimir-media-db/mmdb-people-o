@@ -1707,6 +1707,12 @@
     "path": "data/people/p_ola_hgasen_mhlen.json"
   },
   {
+    "id": "p_ola_hoglund",
+    "name": "Ola Höglund",
+    "birth_year": 1965,
+    "path": "data/people/p_ola_hoglund.json"
+  },
+  {
     "id": "p_ola_k_hunnes",
     "name": "Ola K. Hunnes",
     "path": "data/people/p_ola_k_hunnes.json"
@@ -2209,6 +2215,12 @@
     "id": "p_oldriska_jerabkova",
     "name": "Oldřiška Jeřábková",
     "path": "data/people/p_oldriska_jerabkova.json"
+  },
+  {
+    "id": "p_ole_arnfred",
+    "name": "Ole Arnfred",
+    "birth_year": 1956,
+    "path": "data/people/p_ole_arnfred.json"
   },
   {
     "id": "p_ole_bager_nielsen",
@@ -4293,6 +4305,12 @@
     "path": "data/people/p_olga_temonen.json"
   },
   {
+    "id": "p_olga_tokarczuk",
+    "name": "Olga Tokarczuk",
+    "birth_year": 1962,
+    "path": "data/people/p_olga_tokarczuk.json"
+  },
+  {
     "id": "p_olga_tudorache",
     "name": "Olga Tudorache",
     "birth_year": 1929,
@@ -5719,6 +5737,12 @@
     "path": "data/people/p_olivia_harrison.json"
   },
   {
+    "id": "p_olivia_hetreed",
+    "name": "Olivia Hetreed",
+    "birth_year": 1949,
+    "path": "data/people/p_olivia_hetreed.json"
+  },
+  {
     "id": "p_olivia_holden",
     "name": "Olivia Holden",
     "path": "data/people/p_olivia_holden.json"
@@ -6294,6 +6318,11 @@
     "id": "p_olivier_d_asselin",
     "name": "Olivier D. Asselin",
     "path": "data/people/p_olivier_d_asselin.json"
+  },
+  {
+    "id": "p_olivier_dague",
+    "name": "Olivier Dague",
+    "path": "data/people/p_olivier_dague.json"
   },
   {
     "id": "p_olivier_dahan",
@@ -9065,6 +9094,12 @@
     "path": "data/people/p_ophely_mezino.json"
   },
   {
+    "id": "p_ophir_leibovitch",
+    "name": "Ophir Leibovitch",
+    "birth_year": 1961,
+    "path": "data/people/p_ophir_leibovitch.json"
+  },
+  {
     "id": "p_opi_bachtiar",
     "name": "Opi Bachtiar",
     "birth_year": 1982,
@@ -9168,6 +9203,12 @@
     "name": "Orçun Benli",
     "birth_year": 1980,
     "path": "data/people/p_orcun_benli.json"
+  },
+  {
+    "id": "p_orde_m_coombs",
+    "name": "Orde M. Coombs",
+    "birth_year": 1939,
+    "path": "data/people/p_orde_m_coombs.json"
   },
   {
     "id": "p_ordis_hulda_arnadottir",
