@@ -460,6 +460,12 @@
     "path": "data/people/p_oded_raz.json"
   },
   {
+    "id": "p_oded_rozen",
+    "name": "Oded Rozen",
+    "birth_year": 1974,
+    "path": "data/people/p_oded_rozen.json"
+  },
+  {
     "id": "p_oderus_urungus",
     "name": "Oderus Urungus",
     "birth_year": 1963,
@@ -1120,6 +1126,11 @@
     "path": "data/people/p_oh_yunsu.json"
   },
   {
+    "id": "p_ohad_benchetrit",
+    "name": "Ohad Benchetrit",
+    "path": "data/people/p_ohad_benchetrit.json"
+  },
+  {
     "id": "p_ohad_knoller",
     "name": "Ohad Knoller",
     "birth_year": 1976,
@@ -1130,6 +1141,12 @@
     "name": "Ohad Milstein",
     "birth_year": 1972,
     "path": "data/people/p_ohad_milstein.json"
+  },
+  {
+    "id": "p_ohad_talmor",
+    "name": "Ohad Talmor",
+    "birth_year": 1969,
+    "path": "data/people/p_ohad_talmor.json"
   },
   {
     "id": "p_ohanna_shivanand",
@@ -1544,6 +1561,12 @@
     "path": "data/people/p_oksana_pochepa.json"
   },
   {
+    "id": "p_oksana_robski",
+    "name": "Oksana Robski",
+    "birth_year": 1968,
+    "path": "data/people/p_oksana_robski.json"
+  },
+  {
     "id": "p_oksana_saar",
     "name": "Oksana Saar",
     "birth_year": 1987,
@@ -1634,6 +1657,12 @@
     "name": "Ola Bergström",
     "birth_year": 1984,
     "path": "data/people/p_ola_bergstrom.json"
+  },
+  {
+    "id": "p_ola_flttum",
+    "name": "Ola Fløttum",
+    "birth_year": 1972,
+    "path": "data/people/p_ola_flttum.json"
   },
   {
     "id": "p_ola_forssmed",
@@ -1781,6 +1810,11 @@
     "path": "data/people/p_olaf_jacobs.json"
   },
   {
+    "id": "p_olaf_janssens",
+    "name": "Olaf Janssens",
+    "path": "data/people/p_olaf_janssens.json"
+  },
+  {
     "id": "p_olaf_kaiser",
     "name": "Olaf Kaiser",
     "birth_year": 1958,
@@ -1874,6 +1908,12 @@
     "name": "Ólafía Hrönn Jónsdóttir",
     "birth_year": 1962,
     "path": "data/people/p_olafia_hronn_jonsdottir.json"
+  },
+  {
+    "id": "p_olafur_arnalds",
+    "name": "Ólafur Arnalds",
+    "birth_year": 1986,
+    "path": "data/people/p_olafur_arnalds.json"
   },
   {
     "id": "p_olafur_darri_olafsson",
@@ -2593,6 +2633,12 @@
     "path": "data/people/p_oleg_menshikov.json"
   },
   {
+    "id": "p_oleg_negin",
+    "name": "Oleg Negin",
+    "birth_year": 1970,
+    "path": "data/people/p_oleg_negin.json"
+  },
+  {
     "id": "p_oleg_novitskiy",
     "name": "Oleg Novitskiy",
     "birth_year": 1971,
@@ -2667,6 +2713,12 @@
     "id": "p_oleg_sikirinsky",
     "name": "Oleg Sikirinsky",
     "path": "data/people/p_oleg_sikirinsky.json"
+  },
+  {
+    "id": "p_oleg_sirotkin",
+    "name": "Oleg Sirotkin",
+    "birth_year": 1974,
+    "path": "data/people/p_oleg_sirotkin.json"
   },
   {
     "id": "p_oleg_sobchuk",
@@ -3021,6 +3073,12 @@
     "name": "Oleksandr Ignatusha",
     "birth_year": 1955,
     "path": "data/people/p_oleksandr_ignatusha.json"
+  },
+  {
+    "id": "p_oleksandr_irvanets",
+    "name": "Oleksandr Irvanets",
+    "birth_year": 1961,
+    "path": "data/people/p_oleksandr_irvanets.json"
   },
   {
     "id": "p_oleksandr_ityhilov",
@@ -3486,6 +3544,11 @@
     "name": "Olexander Moroz",
     "birth_year": 1944,
     "path": "data/people/p_olexander_moroz.json"
+  },
+  {
+    "id": "p_olexandr_irvanets",
+    "name": "Olexandr Irvanets",
+    "path": "data/people/p_olexandr_irvanets.json"
   },
   {
     "id": "p_olexsandr_kryzanivskiy",
@@ -3958,6 +4021,12 @@
     "path": "data/people/p_olga_naumenko.json"
   },
   {
+    "id": "p_olga_neuwirth",
+    "name": "Olga Neuwirth",
+    "birth_year": 1968,
+    "path": "data/people/p_olga_neuwirth.json"
+  },
+  {
     "id": "p_olga_nunes",
     "name": "Olga Nunes",
     "path": "data/people/p_olga_nunes.json"
@@ -4017,6 +4086,12 @@
     "name": "Olga Pogodina",
     "birth_year": 1976,
     "path": "data/people/p_olga_pogodina.json"
+  },
+  {
+    "id": "p_olga_pogodinakuzmina",
+    "name": "Olga Pogodina-Kuzmina",
+    "birth_year": 1969,
+    "path": "data/people/p_olga_pogodinakuzmina.json"
   },
   {
     "id": "p_olga_pohonyseva",
@@ -5966,6 +6041,12 @@
     "id": "p_olivier_afonso",
     "name": "Olivier Afonso",
     "path": "data/people/p_olivier_afonso.json"
+  },
+  {
+    "id": "p_olivier_alary",
+    "name": "Olivier Alary",
+    "birth_year": 1975,
+    "path": "data/people/p_olivier_alary.json"
   },
   {
     "id": "p_olivier_assayas",
@@ -8301,6 +8382,12 @@
     "path": "data/people/p_ondrej_kokorsky.json"
   },
   {
+    "id": "p_ondrej_konvicka",
+    "name": "Ondřej Konvička",
+    "birth_year": 1983,
+    "path": "data/people/p_ondrej_konvicka.json"
+  },
+  {
     "id": "p_ondrej_kopecky",
     "name": "Ondřej Kopecký",
     "path": "data/people/p_ondrej_kopecky.json"
@@ -8484,10 +8571,22 @@
     "path": "data/people/p_ondrej_sokol.json"
   },
   {
+    "id": "p_ondrej_soukup",
+    "name": "Ondřej Soukup",
+    "birth_year": 1951,
+    "path": "data/people/p_ondrej_soukup.json"
+  },
+  {
     "id": "p_ondrej_sramek",
     "name": "Ondřej Šrámek",
     "birth_year": 1954,
     "path": "data/people/p_ondrej_sramek.json"
+  },
+  {
+    "id": "p_ondrej_stindl",
+    "name": "Ondřej Štindl",
+    "birth_year": 1966,
+    "path": "data/people/p_ondrej_stindl.json"
   },
   {
     "id": "p_ondrej_stupka",
@@ -8618,6 +8717,11 @@
     "id": "p_onkar_nath_mishra",
     "name": "Onkar Nath Mishra",
     "path": "data/people/p_onkar_nath_mishra.json"
+  },
+  {
+    "id": "p_onkar_singh",
+    "name": "Onkar Singh",
+    "path": "data/people/p_onkar_singh.json"
   },
   {
     "id": "p_onklp",
