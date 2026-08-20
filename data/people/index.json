@@ -537,6 +537,12 @@
     "path": "data/people/p_odgerel_ayusch.json"
   },
   {
+    "id": "p_odile_barski",
+    "name": "Odile Barski",
+    "birth_year": 1946,
+    "path": "data/people/p_odile_barski.json"
+  },
+  {
     "id": "p_odile_cohen",
     "name": "Odile Cohen",
     "birth_year": 1952,
@@ -2699,6 +2705,12 @@
     "path": "data/people/p_oleg_menshikov.json"
   },
   {
+    "id": "p_oleg_mityaev",
+    "name": "Oleg Mityaev",
+    "birth_year": 1956,
+    "path": "data/people/p_oleg_mityaev.json"
+  },
+  {
     "id": "p_oleg_negin",
     "name": "Oleg Negin",
     "birth_year": 1970,
@@ -3442,6 +3454,12 @@
     "name": "Oleksiy Honcharenko",
     "birth_year": 1980,
     "path": "data/people/p_oleksiy_honcharenko.json"
+  },
+  {
+    "id": "p_oleksiy_khoroshko",
+    "name": "Oleksiy Khoroshko",
+    "birth_year": 1980,
+    "path": "data/people/p_oleksiy_khoroshko.json"
   },
   {
     "id": "p_oleksiy_kolesnyk",
@@ -5014,6 +5032,11 @@
     "path": "data/people/p_oliver_kienle.json"
   },
   {
+    "id": "p_oliver_knott",
+    "name": "Oliver Knott",
+    "path": "data/people/p_oliver_knott.json"
+  },
+  {
     "id": "p_oliver_kochtakalleinen",
     "name": "Oliver Kochta-Kalleinen",
     "birth_year": 1970,
@@ -5485,6 +5508,12 @@
     "name": "Oliver Welke",
     "birth_year": 1966,
     "path": "data/people/p_oliver_welke.json"
+  },
+  {
+    "id": "p_oliver_winding",
+    "name": "Oliver Winding",
+    "birth_year": 1972,
+    "path": "data/people/p_oliver_winding.json"
   },
   {
     "id": "p_oliver_wnuk",
@@ -10460,6 +10489,12 @@
     "path": "data/people/p_oscar_campo.json"
   },
   {
+    "id": "p_oscar_cardozo_ocampo",
+    "name": "Oscar Cardozo Ocampo",
+    "birth_year": 1942,
+    "path": "data/people/p_oscar_cardozo_ocampo.json"
+  },
+  {
     "id": "p_oscar_casas",
     "name": "Óscar Casas",
     "birth_year": 1998,
@@ -11549,6 +11584,12 @@
     "path": "data/people/p_oszkar_nyari.json"
   },
   {
+    "id": "p_ota_balage",
+    "name": "Ota Balage",
+    "birth_year": 1961,
+    "path": "data/people/p_ota_balage.json"
+  },
+  {
     "id": "p_ota_filip",
     "name": "Ota Filip",
     "birth_year": 1945,
@@ -11915,6 +11956,12 @@
     "name": "Ottilia Borbáth",
     "birth_year": 1946,
     "path": "data/people/p_ottilia_borbath.json"
+  },
+  {
+    "id": "p_otto",
+    "name": "Otto",
+    "birth_year": 1968,
+    "path": "data/people/p_otto.json"
   },
   {
     "id": "p_otto_addo",
