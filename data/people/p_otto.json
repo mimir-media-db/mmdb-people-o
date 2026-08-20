@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_otto",
+  "name": "Otto",
+  "external_ids": {
+    "wikidata": "Q9053591",
+    "imdb": "nm1162256"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1968
+}
