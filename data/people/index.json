@@ -1899,6 +1899,12 @@
     "path": "data/people/p_olaf_hjgaard.json"
   },
   {
+    "id": "p_olaf_hund",
+    "name": "Olaf Hund",
+    "birth_year": 1999,
+    "path": "data/people/p_olaf_hund.json"
+  },
+  {
     "id": "p_olaf_ittenbach",
     "name": "Olaf Ittenbach",
     "birth_year": 1969,
@@ -2033,6 +2039,11 @@
     "name": "Ólafur Haukur Símonarson",
     "birth_year": 1947,
     "path": "data/people/p_olafur_haukur_simonarson.json"
+  },
+  {
+    "id": "p_olafur_rognvaldsson",
+    "name": "Ólafur Rögnvaldsson",
+    "path": "data/people/p_olafur_rognvaldsson.json"
   },
   {
     "id": "p_olafur_sigurvinsson",
@@ -2348,6 +2359,11 @@
     "name": "Ole Christian Madsen",
     "birth_year": 1966,
     "path": "data/people/p_ole_christian_madsen.json"
+  },
+  {
+    "id": "p_ole_christian_solbakken",
+    "name": "Ole Christian Solbakken",
+    "path": "data/people/p_ole_christian_solbakken.json"
   },
   {
     "id": "p_ole_christoffer_ertvaag",
@@ -6553,6 +6569,12 @@
     "path": "data/people/p_olivier_brouzet.json"
   },
   {
+    "id": "p_olivier_brunhes",
+    "name": "Olivier Brunhes",
+    "birth_year": 1961,
+    "path": "data/people/p_olivier_brunhes.json"
+  },
+  {
     "id": "p_olivier_cadiot",
     "name": "Olivier Cadiot",
     "birth_year": 1956,
@@ -8071,6 +8093,12 @@
     "name": "Omar Rudberg",
     "birth_year": 1998,
     "path": "data/people/p_omar_rudberg.json"
+  },
+  {
+    "id": "p_omar_saavedra_santis",
+    "name": "Omar Saavedra Santis",
+    "birth_year": 1944,
+    "path": "data/people/p_omar_saavedra_santis.json"
   },
   {
     "id": "p_omar_sakiqi",
