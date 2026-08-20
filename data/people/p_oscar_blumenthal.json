@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_oscar_blumenthal",
+  "name": "Oscar Blumenthal",
+  "external_ids": {
+    "wikidata": "Q71567",
+    "imdb": "nm0089835"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1852,
+  "death_year": 1917
+}
