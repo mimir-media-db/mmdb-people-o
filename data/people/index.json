@@ -460,6 +460,12 @@
     "path": "data/people/p_oded_leopold.json"
   },
   {
+    "id": "p_oded_marom",
+    "name": "Oded Marom",
+    "birth_year": 1937,
+    "path": "data/people/p_oded_marom.json"
+  },
+  {
     "id": "p_oded_menashe",
     "name": "Oded Menashe",
     "birth_year": 1969,
@@ -2174,6 +2180,12 @@
     "path": "data/people/p_olavi_kiiski.json"
   },
   {
+    "id": "p_olavi_ruitlane",
+    "name": "Olavi Ruitlane",
+    "birth_year": 1969,
+    "path": "data/people/p_olavi_ruitlane.json"
+  },
+  {
     "id": "p_olavi_tuomi",
     "name": "Olavi Tuomi",
     "birth_year": 1932,
@@ -3370,6 +3382,12 @@
     "path": "data/people/p_oleksandr_shmal.json"
   },
   {
+    "id": "p_oleksandr_soshalskyi",
+    "name": "Oleksandr Soshalskyi",
+    "birth_year": 1973,
+    "path": "data/people/p_oleksandr_soshalskyi.json"
+  },
+  {
     "id": "p_oleksandr_stratiyenko",
     "name": "Oleksandr Stratiyenko",
     "path": "data/people/p_oleksandr_stratiyenko.json"
@@ -4347,6 +4365,11 @@
     "id": "p_olga_ramos",
     "name": "Olga Ramos",
     "path": "data/people/p_olga_ramos.json"
+  },
+  {
+    "id": "p_olga_reka",
+    "name": "Olga Reka",
+    "path": "data/people/p_olga_reka.json"
   },
   {
     "id": "p_olga_ritvanen",
@@ -6654,6 +6677,12 @@
     "path": "data/people/p_olivier_delbosc.json"
   },
   {
+    "id": "p_olivier_demangel",
+    "name": "Olivier Demangel",
+    "birth_year": 1982,
+    "path": "data/people/p_olivier_demangel.json"
+  },
+  {
     "id": "p_olivier_doran",
     "name": "Olivier Doran",
     "birth_year": 1963,
@@ -8510,6 +8539,11 @@
     "name": "Omri Givon",
     "birth_year": 1976,
     "path": "data/people/p_omri_givon.json"
+  },
+  {
+    "id": "p_omri_lahav",
+    "name": "Omri Lahav",
+    "path": "data/people/p_omri_lahav.json"
   },
   {
     "id": "p_omri_levi",
@@ -11533,6 +11567,12 @@
     "path": "data/people/p_oskar_roehler.json"
   },
   {
+    "id": "p_oskar_rozsa",
+    "name": "Oskar Rózsa",
+    "birth_year": 1974,
+    "path": "data/people/p_oskar_rozsa.json"
+  },
+  {
     "id": "p_oskar_sandven_lundevold",
     "name": "Oskar Sandven Lundevold",
     "birth_year": 1996,
@@ -13027,6 +13067,12 @@
     "name": "Owen Kline",
     "birth_year": 1991,
     "path": "data/people/p_owen_kline.json"
+  },
+  {
+    "id": "p_owen_mccafferty",
+    "name": "Owen McCafferty",
+    "birth_year": 1960,
+    "path": "data/people/p_owen_mccafferty.json"
   },
   {
     "id": "p_owen_mcdonnell",
