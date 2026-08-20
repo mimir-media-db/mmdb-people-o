@@ -95,6 +95,12 @@
     "path": "data/people/p_o_zulu.json"
   },
   {
+    "id": "p_oak_felder",
+    "name": "Oak Felder",
+    "birth_year": 1979,
+    "path": "data/people/p_oak_felder.json"
+  },
+  {
     "id": "p_oakes_fegley",
     "name": "Oakes Fegley",
     "birth_year": 2004,
@@ -757,6 +763,12 @@
     "path": "data/people/p_ofer_shechter.json"
   },
   {
+    "id": "p_ofer_shriki",
+    "name": "Ofer Shriki",
+    "birth_year": 1971,
+    "path": "data/people/p_ofer_shriki.json"
+  },
+  {
     "id": "p_ofer_weizman",
     "name": "Ofer Weizman",
     "birth_year": 1964,
@@ -819,6 +831,12 @@
     "name": "Ofri Biterman",
     "birth_year": 1989,
     "path": "data/people/p_ofri_biterman.json"
+  },
+  {
+    "id": "p_ofro",
+    "name": "OfRo",
+    "birth_year": 1987,
+    "path": "data/people/p_ofro.json"
   },
   {
     "id": "p_ogai_rumika",
@@ -1400,6 +1418,11 @@
     "name": "Okan Cornelius",
     "birth_year": 1979,
     "path": "data/people/p_okan_cornelius.json"
+  },
+  {
+    "id": "p_okan_isk",
+    "name": "Okan Işık",
+    "path": "data/people/p_okan_isk.json"
   },
   {
     "id": "p_okan_yalabk",
@@ -3432,6 +3455,12 @@
     "path": "data/people/p_oleksandr_soshalskyi.json"
   },
   {
+    "id": "p_oleksandr_stolyarov",
+    "name": "Oleksandr Stolyarov",
+    "birth_year": 1959,
+    "path": "data/people/p_oleksandr_stolyarov.json"
+  },
+  {
     "id": "p_oleksandr_stratiyenko",
     "name": "Oleksandr Stratiyenko",
     "path": "data/people/p_oleksandr_stratiyenko.json"
@@ -3540,6 +3569,11 @@
     "name": "Oleksii Arestovych",
     "birth_year": 1975,
     "path": "data/people/p_oleksii_arestovych.json"
+  },
+  {
+    "id": "p_oleksii_chorny",
+    "name": "Oleksii Chorny",
+    "path": "data/people/p_oleksii_chorny.json"
   },
   {
     "id": "p_oleksii_huz",
@@ -6765,6 +6799,12 @@
     "path": "data/people/p_olivier_demangel.json"
   },
   {
+    "id": "p_olivier_deriviere",
+    "name": "Olivier Derivière",
+    "birth_year": 1978,
+    "path": "data/people/p_olivier_deriviere.json"
+  },
+  {
     "id": "p_olivier_doran",
     "name": "Olivier Doran",
     "birth_year": 1963,
@@ -6802,6 +6842,11 @@
     "id": "p_olivier_faliez",
     "name": "Olivier Faliez",
     "path": "data/people/p_olivier_faliez.json"
+  },
+  {
+    "id": "p_olivier_fox",
+    "name": "Olivier Fox",
+    "path": "data/people/p_olivier_fox.json"
   },
   {
     "id": "p_olivier_gal",
