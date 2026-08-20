@@ -2526,6 +2526,12 @@
     "path": "data/people/p_oleg_bazylewicz_jr.json"
   },
   {
+    "id": "p_oleg_bogayev",
+    "name": "Oleg Bogayev",
+    "birth_year": 1970,
+    "path": "data/people/p_oleg_bogayev.json"
+  },
+  {
     "id": "p_oleg_boyko",
     "name": "Oleg Boyko",
     "birth_year": 1964,
@@ -3273,6 +3279,12 @@
     "id": "p_oleksandr_pryshchepa",
     "name": "Oleksandr Pryshchepa",
     "path": "data/people/p_oleksandr_pryshchepa.json"
+  },
+  {
+    "id": "p_oleksandr_rozhen",
+    "name": "Oleksandr Rozhen",
+    "birth_year": 1937,
+    "path": "data/people/p_oleksandr_rozhen.json"
   },
   {
     "id": "p_oleksandr_rudynskyi",
@@ -7389,6 +7401,12 @@
     "path": "data/people/p_olov_ludwig.json"
   },
   {
+    "id": "p_olov_svedelid",
+    "name": "Olov Svedelid",
+    "birth_year": 1932,
+    "path": "data/people/p_olov_svedelid.json"
+  },
+  {
     "id": "p_oltin_hurezeanu",
     "name": "Oltin Hurezeanu",
     "birth_year": 1975,
@@ -7928,6 +7946,12 @@
     "name": "Omar Sayed",
     "birth_year": 1946,
     "path": "data/people/p_omar_sayed.json"
+  },
+  {
+    "id": "p_omar_shama",
+    "name": "Omar Shama",
+    "birth_year": 1975,
+    "path": "data/people/p_omar_shama.json"
   },
   {
     "id": "p_omar_shargawi",
@@ -8581,6 +8605,12 @@
     "path": "data/people/p_ondrej_dvorak.json"
   },
   {
+    "id": "p_ondrej_galuska",
+    "name": "Ondřej Galuška",
+    "birth_year": 1976,
+    "path": "data/people/p_ondrej_galuska.json"
+  },
+  {
     "id": "p_ondrej_gubac",
     "name": "Ondrej Gubač",
     "path": "data/people/p_ondrej_gubac.json"
@@ -8716,6 +8746,11 @@
     "id": "p_ondrej_kopecky",
     "name": "Ondřej Kopecký",
     "path": "data/people/p_ondrej_kopecky.json"
+  },
+  {
+    "id": "p_ondrej_kopicka",
+    "name": "Ondřej Kopička",
+    "path": "data/people/p_ondrej_kopicka.json"
   },
   {
     "id": "p_ondrej_koval",
@@ -9480,6 +9515,12 @@
     "path": "data/people/p_orelsan.json"
   },
   {
+    "id": "p_oren_barzilay",
+    "name": "Oren Barzilay",
+    "birth_year": 1973,
+    "path": "data/people/p_oren_barzilay.json"
+  },
+  {
     "id": "p_oren_goldman",
     "name": "Oren Goldman",
     "path": "data/people/p_oren_goldman.json"
@@ -10186,6 +10227,11 @@
     "path": "data/people/p_orn_arnason.json"
   },
   {
+    "id": "p_orn_eldjarn",
+    "name": "Örn Eldjárn",
+    "path": "data/people/p_orn_eldjarn.json"
+  },
+  {
     "id": "p_orna_banai",
     "name": "Orna Banai",
     "birth_year": 1966,
@@ -10401,6 +10447,12 @@
     "name": "Þórunn Magnea Magnúsdóttir",
     "birth_year": 1944,
     "path": "data/people/p_orunn_magnea_magnusdottir.json"
+  },
+  {
+    "id": "p_orvaldur_bjarni_orvaldsson",
+    "name": "Þorvaldur Bjarni Þorvaldsson",
+    "birth_year": 1966,
+    "path": "data/people/p_orvaldur_bjarni_orvaldsson.json"
   },
   {
     "id": "p_orvendi_cintia",
@@ -10738,6 +10790,11 @@
     "name": "Oscar Filho",
     "birth_year": 1978,
     "path": "data/people/p_oscar_filho.json"
+  },
+  {
+    "id": "p_oscar_fogelstrom",
+    "name": "Oscar Fogelström",
+    "path": "data/people/p_oscar_fogelstrom.json"
   },
   {
     "id": "p_oscar_foronda",
@@ -12796,6 +12853,12 @@
     "path": "data/people/p_owen_mcdonnell.json"
   },
   {
+    "id": "p_owen_morris",
+    "name": "Owen Morris",
+    "birth_year": 1968,
+    "path": "data/people/p_owen_morris.json"
+  },
+  {
     "id": "p_owen_mulligan",
     "name": "Owen Mulligan",
     "path": "data/people/p_owen_mulligan.json"
@@ -12817,6 +12880,12 @@
     "name": "Owen Sejake",
     "birth_year": 1949,
     "path": "data/people/p_owen_sejake.json"
+  },
+  {
+    "id": "p_owen_sheers",
+    "name": "Owen Sheers",
+    "birth_year": 1974,
+    "path": "data/people/p_owen_sheers.json"
   },
   {
     "id": "p_owen_smith",
