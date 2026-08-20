@@ -2304,6 +2304,12 @@
     "path": "data/people/p_oldrich_kaiser.json"
   },
   {
+    "id": "p_oldrich_kautsky",
+    "name": "Oldřich Kautský",
+    "birth_year": 1906,
+    "path": "data/people/p_oldrich_kautsky.json"
+  },
+  {
     "id": "p_oldrich_kostal",
     "name": "Oldřich Košťál",
     "path": "data/people/p_oldrich_kostal.json"
@@ -3325,6 +3331,11 @@
     "path": "data/people/p_oleksandr_dovzhenko.json"
   },
   {
+    "id": "p_oleksandr_driz",
+    "name": "Oleksandr Driz",
+    "path": "data/people/p_oleksandr_driz.json"
+  },
+  {
     "id": "p_oleksandr_frazefrazenko",
     "name": "Oleksandr Fraze-Frazenko",
     "birth_year": 1989,
@@ -3709,6 +3720,11 @@
     "name": "Oleksiy Kolesnyk",
     "birth_year": 1950,
     "path": "data/people/p_oleksiy_kolesnyk.json"
+  },
+  {
+    "id": "p_oleksiy_komarovskyi",
+    "name": "Oleksiy Komarovskyi",
+    "path": "data/people/p_oleksiy_komarovskyi.json"
   },
   {
     "id": "p_oleksiy_radynski",
@@ -5658,6 +5674,12 @@
     "name": "Oliver Schmitz",
     "birth_year": 1959,
     "path": "data/people/p_oliver_schmitz.json"
+  },
+  {
+    "id": "p_oliver_schrom",
+    "name": "Oliver Schröm",
+    "birth_year": 1963,
+    "path": "data/people/p_oliver_schrom.json"
   },
   {
     "id": "p_oliver_schundler",
@@ -8733,6 +8755,11 @@
     "path": "data/people/p_omri_rose.json"
   },
   {
+    "id": "p_omri_van_essen",
+    "name": "Omri van Essen",
+    "path": "data/people/p_omri_van_essen.json"
+  },
+  {
     "id": "p_omsb",
     "name": "OMSB",
     "birth_year": 1989,
@@ -10971,6 +10998,12 @@
     "path": "data/people/p_osamu_sato.json"
   },
   {
+    "id": "p_osamu_suzuki",
+    "name": "Osamu Suzuki",
+    "birth_year": 1972,
+    "path": "data/people/p_osamu_suzuki.json"
+  },
+  {
     "id": "p_osamu_tezuka",
     "name": "Osamu Tezuka",
     "birth_year": 1928,
@@ -11491,6 +11524,11 @@
     "name": "Óscar Sánchez Zafra",
     "birth_year": 1968,
     "path": "data/people/p_oscar_sanchez_zafra.json"
+  },
+  {
+    "id": "p_oscar_senen",
+    "name": "Òscar Senén",
+    "path": "data/people/p_oscar_senen.json"
   },
   {
     "id": "p_oscar_sharp",
