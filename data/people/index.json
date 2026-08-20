@@ -692,6 +692,12 @@
     "path": "data/people/p_ofelia_popii.json"
   },
   {
+    "id": "p_ofer_meiri",
+    "name": "Ofer Meiri",
+    "birth_year": 1966,
+    "path": "data/people/p_ofer_meiri.json"
+  },
+  {
     "id": "p_ofer_regirer",
     "name": "Ofer Regirer",
     "birth_year": 1977,
@@ -6284,6 +6290,12 @@
     "path": "data/people/p_olivier_dahan.json"
   },
   {
+    "id": "p_olivier_dazat",
+    "name": "Olivier Dazat",
+    "birth_year": 1956,
+    "path": "data/people/p_olivier_dazat.json"
+  },
+  {
     "id": "p_olivier_de_bannes",
     "name": "Olivier de Bannes",
     "path": "data/people/p_olivier_de_bannes.json"
@@ -11650,6 +11662,12 @@
     "name": "Ōtomo Ritsu",
     "birth_year": 1991,
     "path": "data/people/p_otomo_ritsu.json"
+  },
+  {
+    "id": "p_otomo_yoshihide",
+    "name": "Otomo Yoshihide",
+    "birth_year": 1959,
+    "path": "data/people/p_otomo_yoshihide.json"
   },
   {
     "id": "p_otso_hultkrantz",
