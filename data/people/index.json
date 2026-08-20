@@ -3291,6 +3291,11 @@
     "path": "data/people/p_oleksandr_bondarenko.json"
   },
   {
+    "id": "p_oleksandr_brahin",
+    "name": "Oleksandr Brahin",
+    "path": "data/people/p_oleksandr_brahin.json"
+  },
+  {
     "id": "p_oleksandr_bykov",
     "name": "Oleksandr Bykov",
     "path": "data/people/p_oleksandr_bykov.json"
@@ -8972,6 +8977,12 @@
     "path": "data/people/p_ondrej_dvorak.json"
   },
   {
+    "id": "p_ondrej_gabriel",
+    "name": "Ondřej Gabriel",
+    "birth_year": 1979,
+    "path": "data/people/p_ondrej_gabriel.json"
+  },
+  {
     "id": "p_ondrej_galuska",
     "name": "Ondřej Galuška",
     "birth_year": 1976,
@@ -9141,6 +9152,12 @@
     "name": "Ondřej Kulhánek",
     "birth_year": 1980,
     "path": "data/people/p_ondrej_kulhanek.json"
+  },
+  {
+    "id": "p_ondrej_kyas",
+    "name": "Ondřej Kyas",
+    "birth_year": 1979,
+    "path": "data/people/p_ondrej_kyas.json"
   },
   {
     "id": "p_ondrej_landak",
