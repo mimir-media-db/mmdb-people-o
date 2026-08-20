@@ -1748,6 +1748,12 @@
     "path": "data/people/p_ola_k_hunnes.json"
   },
   {
+    "id": "p_ola_kvernberg",
+    "name": "Ola Kvernberg",
+    "birth_year": 1981,
+    "path": "data/people/p_ola_kvernberg.json"
+  },
+  {
     "id": "p_ola_narum_berg",
     "name": "Ola Narum Berg",
     "path": "data/people/p_ola_narum_berg.json"
@@ -6765,6 +6771,12 @@
     "path": "data/people/p_olivier_merle.json"
   },
   {
+    "id": "p_olivier_messiaen",
+    "name": "Olivier Messiaen",
+    "birth_year": 1908,
+    "path": "data/people/p_olivier_messiaen.json"
+  },
+  {
     "id": "p_olivier_meyrou",
     "name": "Olivier Meyrou",
     "birth_year": 1966,
@@ -11004,6 +11016,12 @@
     "path": "data/people/p_oscar_torre.json"
   },
   {
+    "id": "p_oscar_torres",
+    "name": "Óscar Torres",
+    "birth_year": 1970,
+    "path": "data/people/p_oscar_torres.json"
+  },
+  {
     "id": "p_oscar_vigiola",
     "name": "Óscar Vigiola",
     "path": "data/people/p_oscar_vigiola.json"
@@ -11491,6 +11509,12 @@
     "name": "Ostap Stupka",
     "birth_year": 1967,
     "path": "data/people/p_ostap_stupka.json"
+  },
+  {
+    "id": "p_ostr",
+    "name": "O.S.T.R.",
+    "birth_year": 1980,
+    "path": "data/people/p_ostr.json"
   },
   {
     "id": "p_osunbiyi_taiwo",
@@ -12131,6 +12155,12 @@
     "path": "data/people/p_otto_guerra_netto.json"
   },
   {
+    "id": "p_otto_jagersberg",
+    "name": "Otto Jägersberg",
+    "birth_year": 1942,
+    "path": "data/people/p_otto_jagersberg.json"
+  },
+  {
     "id": "p_otto_jaus",
     "name": "Otto Jaus",
     "birth_year": 1982,
@@ -12699,6 +12729,12 @@
     "id": "p_owen_mulligan",
     "name": "Owen Mulligan",
     "path": "data/people/p_owen_mulligan.json"
+  },
+  {
+    "id": "p_owen_pallett",
+    "name": "Owen Pallett",
+    "birth_year": 1979,
+    "path": "data/people/p_owen_pallett.json"
   },
   {
     "id": "p_owen_roizman",
