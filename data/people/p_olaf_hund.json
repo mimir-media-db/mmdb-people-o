@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_olaf_hund",
+  "name": "Olaf Hund",
+  "external_ids": {
+    "wikidata": "Q3350136",
+    "imdb": "nm9226044"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1999
+}
