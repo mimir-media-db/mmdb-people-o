@@ -1625,6 +1625,11 @@
     "path": "data/people/p_oksana_grebenyuk.json"
   },
   {
+    "id": "p_oksana_grytsenko",
+    "name": "Oksana Grytsenko",
+    "path": "data/people/p_oksana_grytsenko.json"
+  },
+  {
     "id": "p_oksana_karas",
     "name": "Oksana Karas",
     "birth_year": 1979,
@@ -2084,6 +2089,12 @@
     "name": "Ólafur Haukur Símonarson",
     "birth_year": 1947,
     "path": "data/people/p_olafur_haukur_simonarson.json"
+  },
+  {
+    "id": "p_olafur_johann_olafsson",
+    "name": "Ólafur Jóhann Ólafsson",
+    "birth_year": 1962,
+    "path": "data/people/p_olafur_johann_olafsson.json"
   },
   {
     "id": "p_olafur_rognvaldsson",
@@ -3200,6 +3211,12 @@
     "path": "data/people/p_oleh_zborovskyi.json"
   },
   {
+    "id": "p_olehenrik_moe",
+    "name": "Ole-Henrik Moe",
+    "birth_year": 1966,
+    "path": "data/people/p_olehenrik_moe.json"
+  },
+  {
     "id": "p_olejrgen_nilsen",
     "name": "Ole-Jørgen Nilsen",
     "birth_year": 1936,
@@ -3335,6 +3352,11 @@
     "name": "Oleksandr Ityhilov",
     "birth_year": 1974,
     "path": "data/people/p_oleksandr_ityhilov.json"
+  },
+  {
+    "id": "p_oleksandr_kachan",
+    "name": "Oleksandr Kachan",
+    "path": "data/people/p_oleksandr_kachan.json"
   },
   {
     "id": "p_oleksandr_khomenko",
@@ -3565,6 +3587,11 @@
     "path": "data/people/p_oleksandra_svenska.json"
   },
   {
+    "id": "p_oleksandra_vitiazieva",
+    "name": "Oleksandra Vitiazieva",
+    "path": "data/people/p_oleksandra_vitiazieva.json"
+  },
+  {
     "id": "p_oleksii_arestovych",
     "name": "Oleksii Arestovych",
     "birth_year": 1975,
@@ -3693,6 +3720,11 @@
     "name": "Olen Steinhauer",
     "birth_year": 1970,
     "path": "data/people/p_olen_steinhauer.json"
+  },
+  {
+    "id": "p_olena_danylova",
+    "name": "Olena Danylova",
+    "path": "data/people/p_olena_danylova.json"
   },
   {
     "id": "p_olena_demyanenko",
@@ -10174,6 +10206,12 @@
     "path": "data/people/p_oriane_amghar.json"
   },
   {
+    "id": "p_oriane_bonduel",
+    "name": "Oriane Bonduel",
+    "birth_year": 1952,
+    "path": "data/people/p_oriane_bonduel.json"
+  },
+  {
     "id": "p_oriane_messina",
     "name": "Oriane Messina",
     "birth_year": 1999,
@@ -10460,6 +10498,12 @@
     "name": "Orlando Jones",
     "birth_year": 1968,
     "path": "data/people/p_orlando_jones.json"
+  },
+  {
+    "id": "p_orlando_lenzen",
+    "name": "Orlando Lenzen",
+    "birth_year": 1998,
+    "path": "data/people/p_orlando_lenzen.json"
   },
   {
     "id": "p_orlando_letelier",
@@ -12902,6 +12946,11 @@
     "name": "Ounie Lecomte",
     "birth_year": 1966,
     "path": "data/people/p_ounie_lecomte.json"
+  },
+  {
+    "id": "p_ouri",
+    "name": "Ouri",
+    "path": "data/people/p_ouri.json"
   },
   {
     "id": "p_oury_milshtein",
