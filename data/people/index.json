@@ -577,6 +577,12 @@
     "path": "data/people/p_odilon_rocha.json"
   },
   {
+    "id": "p_odin_aarvik_staveland",
+    "name": "Odin Aarvik Staveland",
+    "birth_year": 1985,
+    "path": "data/people/p_odin_aarvik_staveland.json"
+  },
+  {
     "id": "p_odin_biron",
     "name": "Odin Biron",
     "birth_year": 1984,
@@ -1726,6 +1732,12 @@
     "id": "p_ola_normelli",
     "name": "Ola Normelli",
     "path": "data/people/p_ola_normelli.json"
+  },
+  {
+    "id": "p_ola_olsson",
+    "name": "Ola Olsson",
+    "birth_year": 1943,
+    "path": "data/people/p_ola_olsson.json"
   },
   {
     "id": "p_ola_otnes",
@@ -3771,6 +3783,12 @@
     "name": "Olga Dolmatovskaya",
     "birth_year": 1988,
     "path": "data/people/p_olga_dolmatovskaya.json"
+  },
+  {
+    "id": "p_olga_dostalova",
+    "name": "Olga Dostálová",
+    "birth_year": 1946,
+    "path": "data/people/p_olga_dostalova.json"
   },
   {
     "id": "p_olga_dykhovichnaya",
@@ -6098,6 +6116,12 @@
     "path": "data/people/p_olivier_achard.json"
   },
   {
+    "id": "p_olivier_adam",
+    "name": "Olivier Adam",
+    "birth_year": 1974,
+    "path": "data/people/p_olivier_adam.json"
+  },
+  {
     "id": "p_olivier_afonso",
     "name": "Olivier Afonso",
     "path": "data/people/p_olivier_afonso.json"
@@ -6436,6 +6460,12 @@
     "name": "Olivier Goinard",
     "birth_year": 1949,
     "path": "data/people/p_olivier_goinard.json"
+  },
+  {
+    "id": "p_olivier_gorce",
+    "name": "Olivier Gorce",
+    "birth_year": 1949,
+    "path": "data/people/p_olivier_gorce.json"
   },
   {
     "id": "p_olivier_gourmet",
@@ -12382,6 +12412,12 @@
     "path": "data/people/p_owain_yeoman.json"
   },
   {
+    "id": "p_owais_husain",
+    "name": "Owais Husain",
+    "birth_year": 1966,
+    "path": "data/people/p_owais_husain.json"
+  },
+  {
     "id": "p_owell_brown",
     "name": "Owell Brown",
     "birth_year": 1972,
@@ -12670,6 +12706,12 @@
     "id": "p_ozan_celik",
     "name": "Ozan Çelik",
     "path": "data/people/p_ozan_celik.json"
+  },
+  {
+    "id": "p_ozan_colakoglu",
+    "name": "Ozan Çolakoğlu",
+    "birth_year": 1972,
+    "path": "data/people/p_ozan_colakoglu.json"
   },
   {
     "id": "p_ozan_guven",
