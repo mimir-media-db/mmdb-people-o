@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_osamu_tezuka",
+  "name": "Osamu Tezuka",
+  "external_ids": {
+    "wikidata": "Q193300",
+    "imdb": "nm0856804"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1928,
+  "death_year": 1989
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_odon_von_horvath",
+  "name": "Ödön von Horváth",
+  "external_ids": {
+    "wikidata": "Q84455",
+    "imdb": "nm0902463"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1901,
+  "death_year": 1938
+}
