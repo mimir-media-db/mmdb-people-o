@@ -54,6 +54,12 @@
     "path": "data/people/p_o_nguyen_lan_ha.json"
   },
   {
+    "id": "p_o_p_nayyar",
+    "name": "O. P. Nayyar",
+    "birth_year": 1926,
+    "path": "data/people/p_o_p_nayyar.json"
+  },
+  {
     "id": "p_o_p_rai",
     "name": "O P Rai",
     "birth_year": 1951,
@@ -2465,6 +2471,12 @@
     "name": "Oleg Anofriyev",
     "birth_year": 1930,
     "path": "data/people/p_oleg_anofriyev.json"
+  },
+  {
+    "id": "p_oleg_antonov",
+    "name": "Oleg Antonov",
+    "birth_year": 1964,
+    "path": "data/people/p_oleg_antonov.json"
   },
   {
     "id": "p_oleg_asadulin",
@@ -5871,6 +5883,12 @@
     "path": "data/people/p_olivia_manescalchi.json"
   },
   {
+    "id": "p_olivia_merilahti",
+    "name": "Olivia Merilahti",
+    "birth_year": 1982,
+    "path": "data/people/p_olivia_merilahti.json"
+  },
+  {
     "id": "p_olivia_milch",
     "name": "Olivia Milch",
     "birth_year": 1989,
@@ -7953,6 +7971,12 @@
     "path": "data/people/p_omer_kuyuk.json"
   },
   {
+    "id": "p_omer_lutfi_mete",
+    "name": "Ömer Lütfi Mete",
+    "birth_year": 1950,
+    "path": "data/people/p_omer_lutfi_mete.json"
+  },
+  {
     "id": "p_omer_moshkovitz",
     "name": "Omer Moshkovitz",
     "path": "data/people/p_omer_moshkovitz.json"
@@ -7989,6 +8013,12 @@
     "id": "p_omer_shamir",
     "name": "Omer Shamir",
     "path": "data/people/p_omer_shamir.json"
+  },
+  {
+    "id": "p_omer_tadmor",
+    "name": "Omer Tadmor",
+    "birth_year": 1972,
+    "path": "data/people/p_omer_tadmor.json"
   },
   {
     "id": "p_omer_tobi",
@@ -11855,6 +11885,12 @@
     "name": "Ottaviano Dell'Acqua",
     "birth_year": 1954,
     "path": "data/people/p_ottaviano_dellacqua.json"
+  },
+  {
+    "id": "p_ottavio_jemma",
+    "name": "Ottavio Jemma",
+    "birth_year": 1924,
+    "path": "data/people/p_ottavio_jemma.json"
   },
   {
     "id": "p_otte_svendsen",
