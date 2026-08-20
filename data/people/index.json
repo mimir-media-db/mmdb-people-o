@@ -18,6 +18,12 @@
     "path": "data/people/p_o_c_ukeje.json"
   },
   {
+    "id": "p_o_hong_quan",
+    "name": "Đỗ Hồng Quân",
+    "birth_year": 1956,
+    "path": "data/people/p_o_hong_quan.json"
+  },
+  {
     "id": "p_o_j_simpson",
     "name": "O. J. Simpson",
     "birth_year": 1947,
@@ -2035,6 +2041,12 @@
     "path": "data/people/p_olaug_spissy_kyvik.json"
   },
   {
+    "id": "p_olav_ehala",
+    "name": "Olav Ehala",
+    "birth_year": 1950,
+    "path": "data/people/p_olav_ehala.json"
+  },
+  {
     "id": "p_olav_en",
     "name": "Olav Øen",
     "path": "data/people/p_olav_en.json"
@@ -2458,6 +2470,12 @@
     "name": "Oleg Chugunov",
     "birth_year": 2004,
     "path": "data/people/p_oleg_chugunov.json"
+  },
+  {
+    "id": "p_oleg_danilov",
+    "name": "Oleg Danilov",
+    "birth_year": 1949,
+    "path": "data/people/p_oleg_danilov.json"
   },
   {
     "id": "p_oleg_dolin",
@@ -6306,6 +6324,12 @@
     "path": "data/people/p_olivier_doran.json"
   },
   {
+    "id": "p_olivier_douyere",
+    "name": "Olivier Douyère",
+    "birth_year": 1953,
+    "path": "data/people/p_olivier_douyere.json"
+  },
+  {
     "id": "p_olivier_ducastel",
     "name": "Olivier Ducastel",
     "birth_year": 1962,
@@ -6998,6 +7022,12 @@
     "name": "Ollie Johnston",
     "birth_year": 1912,
     "path": "data/people/p_ollie_johnston.json"
+  },
+  {
+    "id": "p_ollie_olsen",
+    "name": "Ollie Olsen",
+    "birth_year": 1957,
+    "path": "data/people/p_ollie_olsen.json"
   },
   {
     "id": "p_ollie_palmer",
@@ -8593,6 +8623,12 @@
     "name": "Ondřej Stupka",
     "birth_year": 2005,
     "path": "data/people/p_ondrej_stupka.json"
+  },
+  {
+    "id": "p_ondrej_sulaj",
+    "name": "Ondrej Šulaj",
+    "birth_year": 1949,
+    "path": "data/people/p_ondrej_sulaj.json"
   },
   {
     "id": "p_ondrej_suss",
@@ -10497,6 +10533,12 @@
     "path": "data/people/p_oscar_magrini.json"
   },
   {
+    "id": "p_oscar_malca",
+    "name": "Óscar Malca",
+    "birth_year": 1957,
+    "path": "data/people/p_oscar_malca.json"
+  },
+  {
     "id": "p_oscar_martinez",
     "name": "Oscar Martínez",
     "birth_year": 1949,
@@ -10592,6 +10634,11 @@
     "name": "Oscar Piastri",
     "birth_year": 2001,
     "path": "data/people/p_oscar_piastri.json"
+  },
+  {
+    "id": "p_oscar_plasencia",
+    "name": "Óscar Plasencia",
+    "path": "data/people/p_oscar_plasencia.json"
   },
   {
     "id": "p_oscar_rabadan",
@@ -11229,6 +11276,12 @@
     "name": "Osvaldo de León",
     "birth_year": 1984,
     "path": "data/people/p_osvaldo_de_leon.json"
+  },
+  {
+    "id": "p_osvaldo_golijov",
+    "name": "Osvaldo Golijov",
+    "birth_year": 1960,
+    "path": "data/people/p_osvaldo_golijov.json"
   },
   {
     "id": "p_osvaldo_guidi",
