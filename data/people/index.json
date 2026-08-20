@@ -430,6 +430,12 @@
     "path": "data/people/p_oddrun_valestrand.json"
   },
   {
+    "id": "p_oddvar_foss",
+    "name": "Oddvar Foss",
+    "birth_year": 1944,
+    "path": "data/people/p_oddvar_foss.json"
+  },
+  {
     "id": "p_oded_binnun",
     "name": "Oded Binnun",
     "birth_year": 1974,
@@ -657,6 +663,12 @@
     "name": "Ödön Rubold",
     "birth_year": 1954,
     "path": "data/people/p_odon_rubold.json"
+  },
+  {
+    "id": "p_odon_von_horvath",
+    "name": "Ödön von Horváth",
+    "birth_year": 1901,
+    "path": "data/people/p_odon_von_horvath.json"
   },
   {
     "id": "p_odorico_mendes",
@@ -2909,6 +2921,12 @@
     "path": "data/people/p_oleg_yankovsky.json"
   },
   {
+    "id": "p_oleg_yegorov",
+    "name": "Oleg Yegorov",
+    "birth_year": 1957,
+    "path": "data/people/p_oleg_yegorov.json"
+  },
+  {
     "id": "p_oleg_zagorodnii",
     "name": "Oleg Zagorodnii",
     "birth_year": 1987,
@@ -2979,6 +2997,12 @@
     "name": "Oleh Mosiychuk",
     "birth_year": 1960,
     "path": "data/people/p_oleh_mosiychuk.json"
+  },
+  {
+    "id": "p_oleh_prikhodko",
+    "name": "Oleh Prikhodko",
+    "birth_year": 1954,
+    "path": "data/people/p_oleh_prikhodko.json"
   },
   {
     "id": "p_oleh_prymohenov",
@@ -5236,6 +5260,12 @@
     "path": "data/people/p_oliver_paulus.json"
   },
   {
+    "id": "p_oliver_pautsch",
+    "name": "Oliver Pautsch",
+    "birth_year": 1965,
+    "path": "data/people/p_oliver_pautsch.json"
+  },
+  {
     "id": "p_oliver_petszokat",
     "name": "Oliver Petszokat",
     "birth_year": 1978,
@@ -6201,6 +6231,12 @@
     "name": "Olivier Augrond",
     "birth_year": 1974,
     "path": "data/people/p_olivier_augrond.json"
+  },
+  {
+    "id": "p_olivier_auriol",
+    "name": "Olivier Auriol",
+    "birth_year": 1966,
+    "path": "data/people/p_olivier_auriol.json"
   },
   {
     "id": "p_olivier_ayachevidal",
@@ -9294,6 +9330,11 @@
     "path": "data/people/p_orcun_benli.json"
   },
   {
+    "id": "p_orcun_koksal",
+    "name": "Orçun Köksal",
+    "path": "data/people/p_orcun_koksal.json"
+  },
+  {
     "id": "p_orde_m_coombs",
     "name": "Orde M. Coombs",
     "birth_year": 1939,
@@ -10385,6 +10426,12 @@
     "id": "p_osamu_sato",
     "name": "Osamu Satô",
     "path": "data/people/p_osamu_sato.json"
+  },
+  {
+    "id": "p_osamu_tezuka",
+    "name": "Osamu Tezuka",
+    "birth_year": 1928,
+    "path": "data/people/p_osamu_tezuka.json"
   },
   {
     "id": "p_osas_ighodaro",
@@ -12024,6 +12071,11 @@
     "id": "p_otto_garli",
     "name": "Otto Garli",
     "path": "data/people/p_otto_garli.json"
+  },
+  {
+    "id": "p_otto_geir_borg",
+    "name": "Ottó Geir Borg",
+    "path": "data/people/p_otto_geir_borg.json"
   },
   {
     "id": "p_otto_guerra",
