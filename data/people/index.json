@@ -659,6 +659,12 @@
     "path": "data/people/p_odoacre_chierico.json"
   },
   {
+    "id": "p_odon_partos",
+    "name": "Ödön Pártos",
+    "birth_year": 1907,
+    "path": "data/people/p_odon_partos.json"
+  },
+  {
     "id": "p_odon_rubold",
     "name": "Ödön Rubold",
     "birth_year": 1954,
@@ -1577,6 +1583,11 @@
     "name": "Oksana Korostyshevskaya",
     "birth_year": 1975,
     "path": "data/people/p_oksana_korostyshevskaya.json"
+  },
+  {
+    "id": "p_oksana_maidanskaya",
+    "name": "Oksana Maidanskaya",
+    "path": "data/people/p_oksana_maidanskaya.json"
   },
   {
     "id": "p_oksana_malashenkova",
@@ -3187,6 +3198,11 @@
     "name": "Oleksandr Fraze-Frazenko",
     "birth_year": 1989,
     "path": "data/people/p_oleksandr_frazefrazenko.json"
+  },
+  {
+    "id": "p_oleksandr_havrosh",
+    "name": "Oleksandr Havrosh",
+    "path": "data/people/p_oleksandr_havrosh.json"
   },
   {
     "id": "p_oleksandr_ignatusha",
@@ -6963,6 +6979,12 @@
     "path": "data/people/p_olivier_saladin.json"
   },
   {
+    "id": "p_olivier_samouillan",
+    "name": "Olivier Samouillan",
+    "birth_year": 1975,
+    "path": "data/people/p_olivier_samouillan.json"
+  },
+  {
     "id": "p_olivier_sanchez",
     "name": "Olivier Sanchez",
     "birth_year": 1966,
@@ -7981,6 +8003,12 @@
     "name": "Omar Sy",
     "birth_year": 1978,
     "path": "data/people/p_omar_sy.json"
+  },
+  {
+    "id": "p_omar_taher",
+    "name": "Omar Taher",
+    "birth_year": 1975,
+    "path": "data/people/p_omar_taher.json"
   },
   {
     "id": "p_omar_tuero",
@@ -9028,6 +9056,12 @@
     "name": "Onemig Bondoc",
     "birth_year": 1977,
     "path": "data/people/p_onemig_bondoc.json"
+  },
+  {
+    "id": "p_oneohtrix_point_never",
+    "name": "Oneohtrix Point Never",
+    "birth_year": 1982,
+    "path": "data/people/p_oneohtrix_point_never.json"
   },
   {
     "id": "p_oner_erkan",
@@ -10666,6 +10700,12 @@
     "path": "data/people/p_oscar_bermeo.json"
   },
   {
+    "id": "p_oscar_blumenthal",
+    "name": "Oscar Blumenthal",
+    "birth_year": 1852,
+    "path": "data/people/p_oscar_blumenthal.json"
+  },
+  {
     "id": "p_oscar_borda",
     "name": "Óscar Borda",
     "birth_year": 1966,
@@ -11129,6 +11169,12 @@
     "name": "Óscar Torres",
     "birth_year": 1970,
     "path": "data/people/p_oscar_torres.json"
+  },
+  {
+    "id": "p_oscar_van_den_boogaard",
+    "name": "Oscar van den Boogaard",
+    "birth_year": 1964,
+    "path": "data/people/p_oscar_van_den_boogaard.json"
   },
   {
     "id": "p_oscar_vigiola",
@@ -13087,6 +13133,12 @@
     "id": "p_ozana_oancea",
     "name": "Ozana Oancea",
     "path": "data/people/p_ozana_oancea.json"
+  },
+  {
+    "id": "p_ozark_henry",
+    "name": "Ozark Henry",
+    "birth_year": 1970,
+    "path": "data/people/p_ozark_henry.json"
   },
   {
     "id": "p_ozay_fecht",
