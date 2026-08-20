@@ -3360,6 +3360,11 @@
     "path": "data/people/p_oleksandr_shchur.json"
   },
   {
+    "id": "p_oleksandr_shevchenko",
+    "name": "Oleksandr Shevchenko",
+    "path": "data/people/p_oleksandr_shevchenko.json"
+  },
+  {
     "id": "p_oleksandr_shmal",
     "name": "Oleksandr Shmal",
     "path": "data/people/p_oleksandr_shmal.json"
@@ -3495,6 +3500,11 @@
     "name": "Oleksii Nahrudnyi",
     "birth_year": 1974,
     "path": "data/people/p_oleksii_nahrudnyi.json"
+  },
+  {
+    "id": "p_oleksii_prykhodko",
+    "name": "Oleksii Prykhodko",
+    "path": "data/people/p_oleksii_prykhodko.json"
   },
   {
     "id": "p_oleksii_reznikov",
@@ -3685,6 +3695,11 @@
     "name": "Oles Yanchuk",
     "birth_year": 1956,
     "path": "data/people/p_oles_yanchuk.json"
+  },
+  {
+    "id": "p_olesia_halkanovalan",
+    "name": "Olesia Halkanova-Lan",
+    "path": "data/people/p_olesia_halkanovalan.json"
   },
   {
     "id": "p_olesia_morhunetsisaienko",
@@ -6279,6 +6294,12 @@
     "path": "data/people/p_olivia_vasquez.json"
   },
   {
+    "id": "p_olivia_vieweg",
+    "name": "Olivia Vieweg",
+    "birth_year": 1987,
+    "path": "data/people/p_olivia_vieweg.json"
+  },
+  {
     "id": "p_olivia_viikant",
     "name": "Olivia Viikant",
     "path": "data/people/p_olivia_viikant.json"
@@ -6540,6 +6561,12 @@
     "name": "Olivier Claverie",
     "birth_year": 1959,
     "path": "data/people/p_olivier_claverie.json"
+  },
+  {
+    "id": "p_olivier_coursier",
+    "name": "Olivier Coursier",
+    "birth_year": 1974,
+    "path": "data/people/p_olivier_coursier.json"
   },
   {
     "id": "p_olivier_coussemacq",
@@ -10357,6 +10384,12 @@
     "path": "data/people/p_orn_eldjarn.json"
   },
   {
+    "id": "p_orna_akad",
+    "name": "Orna Akad",
+    "birth_year": 1961,
+    "path": "data/people/p_orna_akad.json"
+  },
+  {
     "id": "p_orna_banai",
     "name": "Orna Banai",
     "birth_year": 1966,
@@ -10594,6 +10627,12 @@
     "name": "Orwa Nyrabia",
     "birth_year": 1977,
     "path": "data/people/p_orwa_nyrabia.json"
+  },
+  {
+    "id": "p_orxan_fikrtoglu",
+    "name": "Orxan Fikrətoğlu",
+    "birth_year": 1966,
+    "path": "data/people/p_orxan_fikrtoglu.json"
   },
   {
     "id": "p_osama_bin_laden",
